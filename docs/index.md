@@ -12,12 +12,8 @@ _Please note that this website and its content are currently in the alpha versio
 
 # MP3 (full version)
 
-{% for mp3 in site.static_files %}
-{% if mp3.path contains 'mp3_full/' %}
-<a href="{{ site.baseurl }}{{ mp3.path | escape }}">{{ mp3.path | remove: "/mp3_full/" | remove: ".mp3"}}</a> &nbsp;<a href="{{ site.baseurl }}{{ mp3.path | escape }}" download><i class="fa fa-download" aria-hidden="true"></i></a>
+<a href="https://www.feststelltaste.de/wp-content/uploads/share/Simon%20Wardley%20-%20Wardley%20Maps%20-%20Topographical%20intelligence%20in%20business%20%28complete%20audiobook%29.mp3"</a> &nbsp;<a href="https://www.feststelltaste.de/wp-content/uploads/share/Simon%20Wardley%20-%20Wardley%20Maps%20-%20Topographical%20intelligence%20in%20business%20%28complete%20audiobook%29.mp3" download><i class="fa fa-download" aria-hidden="true"></i></a>
 
-{% endif %}
-{% endfor %}
 # MP3s (1 file per section)
 
 {% for mp3 in site.static_files %}
