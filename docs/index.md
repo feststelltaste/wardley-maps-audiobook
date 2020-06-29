@@ -10,9 +10,6 @@ image: images/header.png
 
 Here you can download and listen to the (synthetic generated) audio version of [Simon Wardley](https://twitter.com/swardley)'s book ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps).
 
-_Please note that this website and its content are currently in the alpha version. Take a look at the [issues on GitHub](https://github.com/feststelltaste/wardley-maps-audiobook/issues) and feel to provide feedback, too!_
-
-
 
 # MP3 (full version)
 

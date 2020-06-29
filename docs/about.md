@@ -13,7 +13,10 @@ The content is made available under the same Creative Commons Attribution-ShareA
 The audiobook builds upon Andrew Harmel-Law work. He converted Simon Wardley's blog posts from medium.com to Asciidoc.
 See his GitHub repository for more information: <https://github.com/andrewharmellaw/wardley-maps-book>
 
-You can find the source code for this website as well as the audiofiles here <https://github.com/feststelltaste/wardley-maps-audiobook>.
+Please note that this website and its content are currently in the beta version.
+Take a look at the [issues on GitHub](https://github.com/feststelltaste/wardley-maps-audiobook/issues) and feel to provide feedback, too!
+
+You can find the used text snippets, source code for this website as well as the audiofiles here <https://github.com/feststelltaste/wardley-maps-audiobook>.
 
 The Python script voodoo is currently not online, but I'll upload it as soon as there is some time.
 
