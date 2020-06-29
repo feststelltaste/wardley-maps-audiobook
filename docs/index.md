@@ -4,8 +4,7 @@ image: images/header.png
 ---
 
 
-<meta name="twitter:description" content="{{ site.description }}">
-<meta name="twitter:image" content="{{ site.url }}images/header.png">
+
 
 ![A Wardley Map sketch that characterizes the main ideas about this audiobook version of Simon Wardley's book.](images/header.png)
 
