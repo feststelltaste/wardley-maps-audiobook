@@ -4,8 +4,6 @@ image: images/header.png
 ---
 
 
-
-
 ![A Wardley Map sketch that characterizes the main ideas about this audiobook version of Simon Wardley's book.](images/header.png)
 
 Here you can download and listen to the (synthetic generated) audio version of [Simon Wardley](https://twitter.com/swardley)'s book ["Wardley Maps &ndash; Topographical intelligence in business"](https://medium.com/wardleymaps).
@@ -23,11 +21,10 @@ Here you can download and listen to the (synthetic generated) audio version of [
 {% endif %}
 {% endfor %}
 
-To download all MP3s, feel free to use this command on your Linux console:
+To download all MP3s from this website, feel free to use this command on your Linux console:
 
 ```
-wget -c -A '*.mp3' -r -l 1 -nd https://feststelltaste.github.io/mp3/
-```
+wget -c -A '*.mp3' -r -l 1 -nd https://feststelltaste.github.io/wardley-maps-audiobook/
 
 _Taken and adopted from <https://askubuntu.com/a/549368>._
 
