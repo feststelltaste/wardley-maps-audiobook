@@ -21,3 +21,5 @@ Best,
 
 Markus Harrer  
 [@feststelltaste](https://www.twitter.com/feststelltaste)
+
+_Please visit [my blog](https://www.feststelltaste.de/) for [contact information](https://www.feststelltaste.de/contact/) and a [privacy policy](https://www.feststelltaste.de/privacy/)._
