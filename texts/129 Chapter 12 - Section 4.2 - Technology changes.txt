@@ -1,0 +1,16 @@
+Chapter 12 - Section 4.2.: Technology changes
+
+   Despite the benefit to clients in terms of energy savings through efficiency that Phoenix creates, there exists some concern over the high cost of the system in the market as was noted in the customer survey. There are two potential routes for reducing the cost — the sensor technology and data costs.
+
+   Sensor technology
+
+   The sensor technology accounts for 73% of the installation charge of £67K. There is a range of new, more commodity like sensors that has been launched in China by an extremely large manufacturer. These are far simpler, vastly cheaper (about 1/100th of the price of the existing sensors) and highly standardised. However, they are also extremely basic and lack the sensitivity and capability of the sensor that Phoenix uses. The CDO points out that the product team have attempted replacing the expensive sensor with one of these cheaper versions but the performance and analysis was severely degraded making the system almost unworkable. The CIO interrupts and says that “a potential solution could be to use lots of the cheaper sensors”.
+
+   The CDO points out that such an approach has been discussed several times before and would require a complete rewrite of Phoenix and an entirely new set of algorithms and techniques to be developed requiring a new R&D program. The head of operations who manages installations also chimes in that it would require a complete overhaul to process and an extensive upgrade path for over 6,000 existing installations. The CEO also adds that it would undermine the intellectual property developed in Phoenix. This is finally capped off with the Heads of Marketing and Sales both adding that this would create a marketing nightmare at a time of building both a new business in Brazil and a Cloud service. You sense that there is frustration with the group and the CIO on this topic which has apparently been raised many times before.
+
+   However, the operations, CDO and sales head all agree that despite these cheaper sensors being not good enough for the the job that the client expects, they nevertheless think it’s worth keeping an eye on the market. They are aware of the concept of disruptive innovation and how these cheaper sensors could develop. The CDO now turns to another opportunity.
+
+   Data set
+
+   One of the costs to the company is in the environmental data provided in Phoenix. This data requires extensive testing and modelling of various bits of kit commonly used within data centres. Whilst this is done in-house by the IT department, there is now a data set available on the market which offers this. It is considered by the product team to be good enough and vastly cheaper than the solution from the in-house IT team. The CDO estimates that by buying in the outside data set then the company could reduce the costs of Phoenix by 3% — 4% and we should move forward with this idea. The Sales and Marketing heads agree the company should not only focus on improving our existing software package but reduce costs where possible. The CIO agrees with this assessment despite the obvious implications for IT.
+

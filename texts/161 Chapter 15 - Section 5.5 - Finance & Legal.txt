@@ -1,0 +1,17 @@
+Chapter 15 - Section 5.5.: Finance & Legal
+
+   Your CFO is cautious and points out that there are some significant downsides if things go wrong. For example, one possible outcome is we end up with a net cash outflow of almost $800k before disposal of any assets. There is unfortunately a complication which the CFO highlights. There are two competing proposals for building our solution. One is to build using in-house infrastructure (a build “in-house” variant), the other is to build using a public code execution environment that provides charging at the functional level based upon consumption of resource (a build “public” variant).
+
+   The net effect of this is the build “public” option has higher but more variable costs whereas the build “in-house” variant has significant stepwise increases in investment once the service exceeds 100,000 users per month. These stepwise increase are due to additional development (requires a more distributed architecture), the infrastructure itself and hosting. Legal points out that once we sign up to the contract, we’re responsible for providing and funding the service for one year and hence if we get this wrong, we have to fund the investment regardless of whether we see a corresponding revenue increase. Given the uncertainties, the CFO has modelled both the “in-house” and “public” variants of the scenario with each examining four possible outcomes. The outcomes vary according to:
+     * the number of direct visitors to the testing application
+     * the number of microsite visitors
+     * the rate of conversion of microsite visitors to use the testing application (indirect visitors)
+
+   The CFO is unconvinced by marketing’s conversion rate from total visitors (i.e. both direct and indirect) of the testing application to leads. Given we’re being paid by the lead, the CFO views this as critical. The CFO agrees that marketing has put together a compelling case of how the service will be a roaring success but highlights that no-one seems willing to provide a probability for each of the outcomes. There is a lot of uncertainty over which of the four will be more likely.
+
+   In terms of operational cost such as print and distribution, the CFO is more satisfied that we have a good handle on this. The CFO also notes that the in-house solution does return hardware assets that have value after depreciation is considered. These could be disposed of or repurposed but we have a somewhat less than perfect record here. The normal ROI (return on investment) the company expects to make on any project is around 40%.
+
+   The two variant models (in-house, public) of the scenario, each covering four possible outcomes are provided in figures 195 and 196. The figures are provided as a “best guess” estimate of the four outcomes. What the actual outcome will be is uncertain. In the “in-house” variant, some disposal figures have been provided for the in-house assets assuming these are not repurposed.
+See    Figure 195: The “in-house” variant modelled on four outcomes
+ for more details.See    Figure 196: The “public” platform variant modelled on four outcomes
+ for more details.

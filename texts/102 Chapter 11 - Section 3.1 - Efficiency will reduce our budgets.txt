@@ -1,0 +1,17 @@
+Chapter 11 - Section 3.1.: Efficiency will reduce our budgets
+
+   One of the most common ideas was that cloud computing would reduce IT budget expenditure. It’s a notion that if cloud computing is more efficient then then we will spend less on IT. Sounds simple, sounds obvious and yet it is so wrong.
+
+   I gave a talk at IT@Cork (in 2008) on how this assumption ignored creation of new industries, componentisation and price elasticity effects. By increasing efficiency and the reducing cost of providing infrastructure then a large number of activities which might have been economically unfeasible become feasible. Furthermore, the self-service nature of cloud not only increases agility by enabling faster provision it also enables user innovation through provision of standardised components (the componentisation effect). Building a house is faster with bricks than a clay pit. This in turn can encourage the creation of new industries in the same manner that the commoditisation of electronic switching — from the innovation of the Flemming valve to complex products containing thousands of switches — led to digital calculators and computers. As these industries evolved they drove further demand for electronic switching.
+
+   The effect of these forces is that whilst infrastructure provision may become more efficient, the overall demand for infrastructure will outstrip these gains precisely because infrastructure has become a more efficient and standardised component. We end up using vastly more of a more efficient resource. This effect is not new. It was noted by Willam Stanley Jevons in the 1850s, when he “observed that England’s consumption of coal soared after James Watt introduced his coal-fired steam engine, which greatly improved the efficiency of Thomas Newcomen’s earlier design”
+
+   In figure 143 I’ve outlined the main effects. First (point 1) you have an activity that has evolved from genesis through to product and is finally becoming more industrialised e.g. a commodity or a utility. This will allow for more efficient provision of the act through volume operations.
+
+   However, the more industrialised component can enable greater use of the component as previously uneconomical acts become viable (point 2). There can be a long tail of things we’d like to do and unmet needs which are enabled by the efficiency of provision. The final aspect (point 3) is consumption of the component will increase as new industries that it enabled start to evolve.
+See    Figure 143: Jevons paradox
+ for more details.
+   But can’t I just ignore this? We’re talking market effects here? Won’t it reduce my budget because all I care about is what I produce and not what new fangled industry is created or what unmet needs can now be met?
+
+   If you look at computing then I can buy a million times more resource for the same money than I could twenty years ago. This doesn’t mean IT budgets have reduced a million fold in that time, instead we’ve ended up doing more stuff. Don’t confuse efficiency with reduced IT spend.
+

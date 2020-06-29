@@ -1,0 +1,6 @@
+Chapter 5 - Section 6.: Impacts on purpose
+
+   The decision to act can impact the very purpose of your company — the strategy cycle is not only iterative, it’s a cycle. In this case our purpose was going from a “creative solutions group” a meaningless juxtaposition of words to a “provider of utility platforms”. Just stating that purpose was not enough, it never is. If I wanted to win this battle, then I needed to bring everyone onboard and make the purpose meaningful. I had to create a moral imperative, a reason for doing this, a vision of the future, a rallying cry, a flag we could wave and our very own crusade.
+
+   For us this became embodied in the words “pre-shaved Yaks”. We intended to rid the world of the endless tasks which got in the way of coding. We would build that world where you just switched on your computer, opened up a browser and started coding. Everything from worrying about capacity planning, configuring packages to installing machines would be gone. Every function you wrote could be exposed as a web service. Libraries of routines written by others could be added with ease through a shared commons and you could write entire application in hours not days or weeks or months. This was our purpose. It was my purpose. And it felt good.
+

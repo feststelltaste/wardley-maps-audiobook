@@ -1,0 +1,8 @@
+Chapter 13 - Section 5.: A note to the reader
+
+   Do try the exercise and spend that forty-five minutes on it. If you get flummoxed then give yourself a bit more but set a time limit, no more than an hour and half. Force yourself to make a choice.
+
+   Though I’ve provided some analysis, there’s still a lot to think about. What is right for the company? What is right for the conglomerate that you’re a board member of? What options are open to you? How do you message this to both the company and the board? If you’re struggling then realise that’s good. This is a learning exercise and you don’t learn unless you challenge yourself and embrace difficult problems.
+
+   In the next chapter, I’ll give you my solution. Now, this doesn’t mean that my solution is the right one. There could be a myriad of better ways of dealing with this case. Maybe you’ve found one? Maybe you have a different analysis? All I can tell you is how I would solve it and through the medium of maps explain my reasoning and my choices. Being a map, you’re free to challenge any and all assumptions I’ve made. In fact, that’s the point of a map and I welcome the challenge because it gives me the opportunity to learn.
+

@@ -1,0 +1,12 @@
+Chapter 9 - Section 4.3.: Categorising Predictability
+
+   Now I’ve introduced the basics of anticipation, I’d like to refine the concept. When I’m talking about predictability, I am talking about how accurately we can predict a change. If we assign a 10% probability to something then a high level of predictability means our 10% assignment is roughly right. A low level of predictability means we just don’t have a clue. It could be 10%, 0.1% or 99%. We literally have no idea. You can still assign a precise probability to the change but it’s likely to be wildly inaccurate. You’re in the land of crystal balls and mystic megs. Predictability is the degree to which we anticipate something.
+
+   When it comes to anticipating change then at a market level it’s extremely difficult to identify who is going to make a change. In general the predictability of who is always low. That doesn’t stop you from preparing for changes especially points of war i.e. the industrialisation of a component. Cloud computing was highly anticipatable and could have been prepared for well in advance despite us not knowing who was going to lead the charge. There is a broad spectrum of change that I’ve categorised in figure 110 using predictability of What and When as the axis. The categories are :     * known : trivial and obvious existing trends i.e. diffusion of an existing act. There is little advantage to be found here as almost everyone else knows it e.g. diffusion of cloud computing in 2016.
+     * unknown : trends which you cannot effectively determine beforehand such as product to product substitution. There is little advantage to be found here in terms of anticipation because you cannot anticipate. It’s a gamble.
+     * knowable : trends which can be determined to some degree prior to occurrence but are considered unknown by the majority. These trends are where you can take advantage of others poor situational awareness.
+
+See    Figure 110: Categories of change
+ for more details.
+   Of Wonders and Disruption, Leading Edge Forum, 2014
+

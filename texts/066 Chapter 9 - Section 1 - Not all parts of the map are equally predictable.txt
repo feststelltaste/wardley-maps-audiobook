@@ -1,0 +1,11 @@
+Chapter 9 - Section 1.: Not all parts of the map are equally predictable
+
+   When we talk about the uncharted space, we’re discussing things which we really don’t understand. I’m often tempted to write “Ere be Dragons”. This area is inherently uncertain and risky but at the same time it contains sources of future value and difference. As any component evolves over an unspecified amount of time (evolution can’t be measured over time directly) then it becomes more defined, more certain and less risky. We increasingly know what we need. It also becomes less of a differential. The future value of something is inversely related to the certainty we have over it. When it comes to the predictability of something then there are three aspects we need to consider — the “what”, the “when” and the “who”?
+
+   The predictability of what is not uniform. It varies from genesis where the “what” is undefined to commodity where the “what” is defined. In the early days of electricity provision with the Parthian battery then we were discovering what it could do. Could electricity give us eternal life? Could it provide light? Would it create monsters? We had no idea where it would take us. Today, it’s taken for granted and considered a well defined known. The questions are more about the provision of defined frequencies (50Hz), defined voltages (240V), defined interfaces (3 pin plug) and the cost per kWh.
+
+   In figure 94, I’ve taken a single activity A from its early appearance A[1] to some future version A[1+n] that has evolved through n iterations, each including their own chasms and diffusion curves. It’s the same activity throughout but with more evolved characteristics. You could pick electricity or computing or penicillin or money, they all followed this path.
+See    Figure 94: Predictability of what
+ for more details.
+   Since evolution is one of the axes on our map, we know the predictability of what is not constant across our map. How about “who” and “when”? Individual actors actions are notoriously difficult to predict. There are however ways to cheat the system but this uses weak signals.
+

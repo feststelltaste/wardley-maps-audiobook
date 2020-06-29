@@ -1,0 +1,17 @@
+Chapter 9 - Section 4.2.: Re-examining the past
+
+   With our new understanding of anticipation then we can go back and look at those original maps of Fotango. I taken one from [141]figure 28 ([142]chapter 3) and simply marked on points of war (purple) and wonder (light blue).
+See    Figure 108: Anticipation at Fotango
+ for more details.
+   From the above, in 2005 we had anticipated that compute was moving towards a utility (point 1, a state of war). This was a reasonable assumption to make. Such a change is highly predictable and we could have said a lot more about it — the change of practice for example or the rapid speed of adoption. We had also anticipated the platform (point 2) would move to a utility and there would be inertia to the change. Again, this is a perfectly reasonable anticipation to have made. It was a highly predictable change. Finally, we had anticipated a rapid growth in new activities (point 3) but we didn’t know what they would be. This also was a reasonable anticipation.
+
+   In contrast, the parent company had decided the future was going to be SED television. This was a product to product substitution and it turns out that such changes are highly unpredictable. They were simply making a gamble in the dark. We threw away the highly predictable changes which we had first mover advantage in (e.g. cloud) in order to gamble on an unpredictable area where we were behind the game (TV).
+
+   The same issue occurs with Kodak example from [144]Chapter 5. Kodak had three areas (points 1 to 3 in figure 109) which it could anticipate and therefore comfortably attack — the dominance of digital images, the rise of camera phones and the industrialisation of online photo services. There was plenty of room for Kodak to play and plenty of opportunity. It should have easily anticipated the change of market and exploited this.
+See    Figure 109: Kodak and anticipation
+ for more details.
+   Unfortunately for Kodak, it bet its future in areas (point 4) that were highly unpredictable in the short term (e.g. product substitution for printers) and where it was behind the game. To make matters worse, the long term was even more dire. The entire reason for the existence of fulfilment mechanisms and photo printers was to enable physical images (analog) to be shared whether they came from processing of film from a camera or printing a digital image from a digital still camera. As we moved to sharing digital images then the whole reason for this part of the value chain to exist had started to disappear. Just to add salt into the wounds, cameras had evolved to higher order systems in digital still cameras which have evolved (and become part of) higher order systems such as smart phones. Every smart phone would become a good enough digital still camera. The future of digital still cameras was in high end photography which is a niche. Everything inside point 4 was in trouble, this was
+   easily anticipatable at the time and not somewhere you should be relying upon for a future unless you planned to carve out a high end niche.
+
+   Maps are powerful tools when it comes to anticipation and avoiding betting your future on stuff that doesn’t matter or giving the order to “walk off the cliff”
+

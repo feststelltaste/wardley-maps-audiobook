@@ -1,0 +1,8 @@
+Chapter 7 - Section 5.2.: Landscape
+
+     * Your map is always part of a wider chain of needs, it is no more than a window on an industry. A perfect map covering an entire industry and all its components is probably as unusable (Valéry’s paradox) as a perfect map of France (i.e. 1 to 1 scale). You have to accept some compromise.
+     * You can draw many organisations onto a single map. The value chain is only a guide and higher up the value chain simply means more visible to that user. You can always draw chains of users e.g. the user needs for a gun company breakdown into the user needs for a bolt company.
+     * Maps are a communication tool. Don’t be afraid to modify or clarify the terms on the axis if it helps in the discussion. Key is to keep within the bounds of what is a map, particularly position (e.g. value chain) and movement (e.g. evolution)
+     * The map of mapping (figure 69) contains components which are also the axes of the map i.e. the idea of evolution is itself evolving along the evolution scale. Mapping can be applied to itself. It also means that these current maps are little more than Babylonian Clay Tablets. Someone will make a better map.
+     * There are many different things which we call innovation — this includes genesis of an act, feature differentiation of a product and a shifting business model from product to utility. They are very different despite our use of a single term to describe them.
+

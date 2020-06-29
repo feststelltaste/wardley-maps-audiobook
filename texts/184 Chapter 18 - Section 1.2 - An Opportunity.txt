@@ -1,0 +1,41 @@
+Chapter 18 - Section 1.2.: An Opportunity
+
+   In late 2013, I wrote a paper for the Cabinet Office called “Governance of Technology Change”. I used this paper to try to combat what I saw as a “tyranny of agile” and to introduce the ideas of continuous learning through maps. I already had a handful of examples where maps had proved useful in Government, such their use in the development of IT systems within HS2 (High Speed Rail) by James Findlay. These examples were few and far between. The problem within Government was a past tendency to one size fits all. Outsourcing was now being overtaken with a new and inappropriate one size fits all called agile. Without maps, it’s easy to fall into one size fits all trap. To show you what I mean, let us take a map for an IT system in HS2 and overlay the different methods, techniques and types of attitudes you would use — see figure 235
+See    Figure 235: High Speed Rail Map with overlaid techniques
+ for more details.
+   By now it should be obvious to you how we need to use a changing landscape of multiple methods at the same time to manage a complex system such as this. However, imagine if you had no map. The temptation and ease at which a one size fits all can be used or replaced by another should be obvious. How would you counter an argument for using an agile technique to build an HR system given the success of agile in building a land registry system? They’re the same, right? This is what happens when context is lost. It is how you end up trying to outsource everything or agile everything.
+
+   Be warned, this path won’t win you many friends. I’ve been in conferences where I’ve got into raging arguments with people trying to explain to me that agile works everywhere. This is often followed by other conferences and raging arguments with people trying to explain that six sigma works everywhere. In both cases, they’ll often explain failure as “not doing it in the right way” or “using the wrong bits” and never that there exists a limit or context to the method. It’s no different with the “better specification” problem. The failure is always blamed on something else and not that specification, agile or six sigma shouldn’t have been used for those parts.
+
+   During my years of using mapping, the “use of appropriate methods” was just one of a long list of context specific gameplays, climatic (economic) patterns and doctrine (universally useful principles) that I had discovered through my use of maps. I turned to my list of doctrine to help write the “Governance of Technology Change” paper and to correct some of my failures in the original “Better for Less”. I used these principles to propose a new form of governance structure that built upon the work that was already done. The key elements of doctrine used were: 
+   Doctrine: Focus on high situational awareness (understand what is being considered)
+
+   A major failing of “Better for Less” was the lack of emphasis on maps. I had to increase situational awareness beyond simple mental models and structures such as ILC. To achieve this, we needed to develop maps within government which requires an anchor (user need), an understanding of position (the value chain and components involved) and an understanding of movement (evolution). To begin with, the proposed governance system would clearly reflect user needs in all its decision-making processes. The users included not only departmental users but also the wider public who will interact with any services provided. It was essential, therefore, that those users’ needs were determined at the outset, represented in the creation of any proposal and any expected outcomes of any proposal are set against those needs. But this was not enough, we needed also the value chain that provided those user needs and how evolved the components were. Maps therefore became a critical part of the Governance
+   structure.
+
+   Doctrine: Be transparent (a bias towards open)
+
+   The governance system had to be entirely transparent. For example, proposals must be published openly in one place and in one format through a shared and public pipeline. This must allow for examination of proposals both internally and externally of Government to encourage interaction of departments and public members to any proposal.
+
+   Doctrine: Use a common language (necessary for collaboration)
+
+   The governance system had to provide a mechanism for coordination and engagement across groups including departments and spend control. This requires a mechanism of shared learning — for example, discovery and dissemination of examples of good practice. To achieve this, we must have a common language. Maps were that language.
+
+   Doctrine: Use appropriate methods (e.g. agile vs lean vs six sigma)
+
+   Governance had to accept that there are currently no single methods of management that are suitable for all environments. The use of multiple methods and techniques based upon context had to become a norm.
+
+   Doctrine: Distribute power and decision making
+
+   Departments and groups should be able organise themselves as appropriate to meet central policy. Hence the governance procedure should refrain from directly imposing project methodologies and structure on departments and groups and allow for autonomous decision making. Improvements to ways of operating could be achieved through challenging via maps i.e. if one department thought that everything should be outsourced, we could use their own maps to help them challenge their own thinking.
+
+   Doctrine: Think fast, inexpensive, restrained and elegant (FIRE)
+
+   Governance should encourage an approach of fast, inexpensive, simple and tiny rather than creation of slow, expensive, complex and large systems to achieve value for money. Any reasonably large technology proposal should be broken down into smaller components with any in-house development achieved through small teams. The breaking down of large systems would also help demonstrate that multiple methods were usually needed along with encouraging re-use. However, we would have to be prepared for inertia and counter arguments such as the “complexity of managing interfaces”. The interfaces existed regardless of whether we tried to ignore them or not.
+
+   Doctrine: Use a systematic mechanism of learning (a bias towards data)
+
+   The governance system must provide a mechanism of consistent measurement against outcomes and for continuous improvement of measurements. This is covered in xref:#chapter-6-getting-started[chapter 6] and it is a primary role for any spend control group.
+
+   The paper was written and delivered in 2013. Unfortunately, I suspect in this instance it has gathered dust. The problem with the paper was familiarity. Many of the concepts it contained are unfamiliar to most and that requires effort and commitment to overcome. That commitment wasn’t there, the tyranny of agile continued and the inevitable counter reaction ensued. There was and is a lot of good stuff that has been achieved by Government in IT since 2010. The people who have worked and work there have done this nation proud. However, more could have been achieved. In my darkest and more egotistical moments, I suspect that had I not assumed everyone knew how to map then I might have been able to move that needle a bit more by introducing these concepts more prominently in the “Better for Less” paper. But alas, this is not my only failure.
+

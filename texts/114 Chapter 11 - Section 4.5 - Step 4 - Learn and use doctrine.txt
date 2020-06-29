@@ -1,0 +1,6 @@
+Chapter 11 - Section 4.5.: Step 4 — Learn and use doctrine
+
+   Now you have an idea of your landscape and how it can change, you’ll want to start doing stuff about it. However, there are two classes of choice ; those which are universally applicable and those which are context specific. The universally applicable choices are a set of principles which we all should apply. These are your doctrine.
+
+   At the time of writing, this is my list of basic doctrine — hence Wardley’s Doctrine (I really am that unimaginative). This is based upon my observations over many maps with many organisations and contains universal principles that I consider to be reasonably sound. Many of these we have already covered
+

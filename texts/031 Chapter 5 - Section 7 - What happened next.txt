@@ -1,0 +1,11 @@
+Chapter 5 - Section 7.: What happened next?
+
+   We built it.
+
+   I refocused the company, we cut away that which didn’t matter and we developed our platform. By the 18th Feb 2006 we had the platform, core API services, billing system, portal and three basic applications for others to copy. We officially beta launched in March 2006 (our alpha had been many months earlier), this was a full two years before Google appeared on the scene with AppEngine. The public launch was at dConstruct in September 2006.
+
+   By the 18th April 2006, we had 30 customers, 7 basic applications and a monthly rate of 600K API calls. By 19th June 2006, we were clocking a run rate of 2.8M API calls. We were growing at a phenomenal rate and by the first quarter of 2007 we had passed the 1,000 developer mark i.e. others building systems for their own users. After a slow start, our growth was now exceeding even my optimistic forecasts given the huge educational barriers I expected — see figure 58.
+See    Figure 58: Growth in Zimki users (developers)
+ for more details.
+   But during that time something exceptional had also happened. On August 25, 2006 it wasn’t Google but Amazon that launched with EC2. I was rapturous once again. Amazon was a big player, they had provided instant credibility to the idea of utility computing and in response we immediately set about moving our platform onto EC2. Every time we presented at events our booths tended to be flooded with interest with crowds of people often four, five or six layers deep. The company had embraced the new direction (there were still a few stragglers) and there was a growing buzz. We were still very small and had a huge mountain to climb but we had taken our first steps, announced the open sourcing, secured a top billing at OSCON in 2007 and the pumps were primed. But Houston, we had a problem.
+

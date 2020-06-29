@@ -1,0 +1,50 @@
+Chapter 13 - Section 1.: A map of the scenario
+
+   To start with, we need to create a basic map. The company unfortunately doesn’t talk a great deal about user needs but we can infer that the user need is either about saving money or being green (possibly even a legal requirement). This need requires some form of efficiency analysis which is provided by the company as a product — Phoenix. We also know the market whilst reasonably sized (£301 million) is seen to be far smaller than the applicable market (£3 billion) and so the market of clients is not yet fully mature. Hence to begin with, I’m just going to add client which needs efficiency analysis to our map and position the pieces roughly where I think they should be (see figure 167).
+See    Figure 167: Starting the map
+ for more details.
+   I also know that Phoenix requires some form of sensor and this sensor seems to be a highly expensive product. The clue that this isn’t some form of resource constraint is that a more commodity version is provided in China. I also know that the sensor (or at least the system using the sensor) requires some form of custom built data set which our own in-house IT team creates. I’m not quite sure how this operates but for the time being I’ll attach this as a need for the sensor.
+
+   Finally, I’m aware that Phoenix has some form of system logic based upon best practice use of the sensors. I know that changing the sensor to multiple commodity sensors would “require a complete rewrite of Phoenix” (the CDO told us this). So, I can now extend my map with these components (figure 168). It’s not perfect, no map ever is. I’ve marked on the sensor logic as a practice (i.e. it seems to be connected with how we use sensors) and the environmental data as data.
+See    Figure 168: Extending the map with practice and data
+ for more details.
+   The head of marketing also told us that the US was a more mature market and Brazil was less developed in the area of such efficiency analysis software. I’ll assume that the markets are competitive (i.e. there is supply and demand competition) particularly since we’re talking about setting up a business in Brazil. It’s a bit of a gamble but I’ll assume that the head of marketing has done at least a small modicum of homework. We can now mark on these markets, with lines (red dotted) to describe how they are changing — see figure 169.
+See    Figure 169: Adding markets
+ for more details.
+   We also know that a range of “more commodity like sensors” have been launched in China and that there is now a “data set available on the market” which I’ll assume is some form of product or rental arrangement. Obviously there’s a couple of assumptions here but these could be clarified with a few questions. I’ve marked on these changes to the map in figure 170.
+See    Figure 170: Adding China and the data set
+ for more details.
+   Now, whilst it might not be a perfect map, it does provide us some form of overview on the environment and certainly something we can use to challenge the assumptions I’ve made. There is however a bit more to add.
+
+   We can infer from the comments on the US competitor, the company’s plans for Phoenix’s own cloud solution to represent a mere 10% of revenue by 2023, their pride at the “technological marvel they have created” and the statement that “security concerns cited by some clients due to their cloud approach” that this group will have some inertia to the cloud change. We also know more explicitly that with the commodity sensors being described as “not good enough for the the job” and an alternative path of using “lots of the cheaper sensors” being widely dismissed despite the cost of the sensors, the price differential and customer concerns over cost that we will find resistance to change here as well. We should add this inertia to our map (figure 171).
+See    Figure 171: Adding inertia
+ for more details.
+   In our market, we have a US player that is also operating in the more mature US market. They are already providing features we do not (we will assume this mets some user need which we might possibly not be aware of), they have companies building novel components and potentially products on top of their API and the system they are offering is more of a utility.
+
+   It’s still based however on the expensive sensors and we can assume they have developed their own system logic which is equivalent to ours. I’ve added this into figure 172.
+See    Figure 172: The US player
+ for more details.
+   The shift towards more utility versions requires four factors — concept, technology, suitability and attitude (see [214]chapter 9 — charting the future). In this case concept, suitability and technology clearly exist as we have a US competitor providing the service. In terms of attitude then it’s a question of whether your clients are dissatisfied with the current method of provision. It’s not the 90% of customers rating Phoenix as good to high levels of satisfaction that concern me, it’s the 10% who didn’t. Specifically, the concern of a “high cost of the system in the market as was noted in the customer survey”. I’m going to assume therefore that we are firmly on the path towards utility as the factors seem to be there and a player is already making that move.
+
+   The US player claims to be “doubling in size each year” and the anticipated revenue growth from £15M to £25M is somewhat supportive of this especially if we consider the potential for economies of scale and price cuts. Alas, we have no information to confirm that consideration. We should note that they have a “fairly active development community” growing around their API and have been accused of “eating up the business models of some of those product companies”. Contrary to this being a desperate act of cannibalisation, it is more likely part of an ILC like gameplay (as described in [215]chapter 5 — the play and a decision to act).
+
+   This is exceedingly dangerous as the larger that ecosystem grows then the more innovative, more efficient and more customer focused the competitor becomes. They are already ahead of us in both utility forms, provision of an API and core features. Let us add this bit of gloom and doom to our map.
+See    Figure 173: Ecosystem moves of the US player
+ for more details.
+   In the “P&L” provided by the CFO we have revenue forecasts all the way to 2021, a very wishful bit of thinking. We know the shift from product to utility tends to demonstrate a punctuated equilibrium and so it’s not unreasonable to assume the growth rate of the US player will continue. This is usually one those hard things to accept because we get comfortable with the illusion of a perceived slow change from one product to another product (see [217]Chapter 10 — I wasn’t expecting that). It can take 20 to 30 years, sometimes more for the product industry to develop and then 10 to 15 years for it all to be dismantled. For Phoenix, this war has been going on regardless of whether the company is aware or not.
+
+   Added on top of that an ILC model then this growth rate is likely to be reinforced because the US player will extend further ahead of Phoenix. Hence we can add our predicted revenue and extrapolate the US revenue onto the same graph — see figure 174.
+See    Figure 174: Revenue forecasts
+ for more details.
+   There are a couple of comments worth noting. First (point 1) is that by 2020 or thereabout the US player will be about the same size of revenue as Phoenix. The problem is the US player will be an entirely cloud based service with a large ecosystem that they are using to sense future changes. Our Phoenix cloud service would have just launched and we will be a startup, a minnow after spending £45 million in a future market that is dominated by this US giant. Even by 2023 our cloud revenue is only expected to be 10% of our overall revenue. This is calamitous.
+
+   To compound this the current market is only just north of £300M (point 2) and by 2020 then the combined revenues of Phoenix and the US player will vastly exceed this. Even given growth of the current market, we can assume we’re going to be head to head in a battle with the US player. One of us is not going to get what we’re hoping for. Unfortunately, we will be playing the part of David with our trusty sling versus a Goliath who has turned up with an entire army of brothers armed with general purpose machine guns. This is not going to be pretty for us. Alas it gets worse.
+
+   In [219]chapter 9 — charting the future — we discussed the concept of co-evolution of practice with activity. Looking at our map, we can apply the same pattern to sensors. The commodity sensors available in China are likely to trigger an entire new set of practices. Our CIO hinted at this with the statement “a potential solution could be to use lots of the cheaper sensors” which our CDO dismissed with the normal inertia of one wedded to a past practice — “require a complete rewrite of Phoenix”. Whether we like it or not, a new emerging practice is coming and our existing system logic needs the rewrite (see figure 175).
+See    Figure 175: Co-evolution of practice with activity
+ for more details.
+   What this means is not only do we have a future battle with a Goliath but the entire system logic of Phoenix and our code based that is built upon years of good to best practice with these highly expensive sensors is about to become legacy. I’ve summarised this all in the map below (figure 176) dropping the line between the co-evolved practice and our product as that is fairly redundant. Of course, someone is bound to suggest we do that at some point in the future, however I’d rather focus on where the future is going i.e. utility rather than futility. We will use this map to examine the company strategy.
+
+   Now, you might argue with the position of pieces on the map or components that have been missed or assumptions that have been made but that’s the entire point of a map. To expose all of this in a visual form that we can then challenge.
+See    Figure 176: The map
+ for more details.

@@ -1,0 +1,19 @@
+Chapter 1 - Section 3.: A game of chess
+
+   I’m going to take you through the same thought experiment that I went through. Remember, back in 2004, I had nothing to support my idea that situational awareness and topographical intelligence might be important in business. I was out on a limb with nothing to back me up.
+   I want you to now imagine you live in a world where everyone plays chess and how well you play the game determines your success and your ranking in this world. However, in this world, no one has ever seen a chessboard. In fact, all you’ve ever seen are the following characters on a screen and you play the game by simply pressing a character, your opponent counters and then you counter and so forth. The list of moves being recorded underneath the characters.
+See    Figure 4: Chess World
+ for more details.
+   Now both players can see what the other has pressed, white started with Pawn (w), black countered with Pawn (b) and so on. The game will continue until a draw is determined or someone has won. Neither player is aware of the concept of a board or that each of the characters may represent one of many pieces (i.e. there are eight Pawns). However, this lack of awareness won’t stop people playing and others collecting numerous sequences from different games. With enough games, people will start to discover “magic sequences” of success. If you press Knight, I should counter with Pawn, Pawn, and Bishop!
+
+   Gurus will write books on the “Secrets of the Queen” and people will copy the moves of successful players. People will convince themselves that they know what they’d doing and the importance of action — you can’t win without pressing a character! All sorts of superstition will develop.
+
+   Now imagine you’re playing against someone who can see something truly remarkable — the board. In this game, you will move Pawn(w), the opponent will counter Pawn (b), you will move again Pawn(w), they will counter Queen(b) and you will have lost. I’ve shown this in the figure below.
+See    Figure 5: Chess World vs The Board
+ for more details.
+   Remember, you have no idea that the board exists and you can only see what is on the left hand side i.e. the characters you press and the sequence. You will almost certainly be shocked by the speed at which you have lost the game. You’ll probably scribble down their sequence as some sort of magic sequence for you to re-use. However, every time you play this opponent, no matter what you do, no matter how you copy them, you will lose and lose quickly.
+
+   You’ll probably start to question whether there is some other factor to success ? Maybe it’s the speed at which they press the characters? Maybe they are a happy person and somehow culture and disposition impacts the game? Maybe it’s what they had for lunch? To make things worse, the board provides the opponent with a learning mechanism to discover repeatable forms of gameplay i.e. fool’s mate. Against such a player, you are doomed to lose in the absence of lucky breaks for yourself and some sort of calamity for the opponent.
+
+   For a young CEO this started to feel rather disturbing. I had the sneaking suspicion that I was the player pressing the buttons without seeing the board. We were doing fine for now but what happened if we came up against such a competitor? If they could see the board then I was toast. I needed some way to determine just how bad my situational awareness was.
+

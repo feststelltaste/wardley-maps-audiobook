@@ -1,0 +1,169 @@
+Chapter 11 - Section 4.6.: Wardley’s Doctrine
+
+   Be transparent
+
+   Have a bias towards openness within your organisation. If you want to effectively learn about the landscape then you need to share your maps with others and allow them to add their wisdom and their challenge to the process. Building maps in secret in your organisations is a surefire way of having a future meeting where somebody points out the blindingly obvious thing you have missed.
+
+   Focus on high situational awareness
+
+   There is a reasonably strong correlation between awareness and performance, so focus on this. Try to understand the landscape that you are competing in and understand any proposals in terms of this. Look before you leap.
+
+   Use a common language
+
+   A necessity for effective collaboration is a common language. Maps allow many people with different aptitudes (e.g. marketing, operations, finance and IT) to work together in order to create a common understanding. Collaboration without a common language is just noise before failure.
+
+   Challenge assumptions
+
+   Maps allow for assumptions to be visually exposed. You should encourage challenge to any map with a focus on creating a better map and a better understanding. Don’t be afraid of challenge, there is no place for ego if you want to learn.
+
+   Know your users
+
+   When mapping a landscape then know who your users are e.g. customers, shareholders, regulators and staff.
+
+   Focus on user needs
+
+   An essential part of mapping is the anchor of user needs. Ideally you want to create an environment where your needs are achieved by meeting the needs of your users. Be mindful that these needs will evolve due to competition and in the uncharted space they are uncertain. Also, be aware that users may have different and competing needs and be prepared to balance the conflict
+
+   Think fast, inexpensive, elegant and restrained (FIRE)
+
+   Break large systems down into small components, use and re-use inexpensive components where possible, constrain budgets and time, build as simply and as elegantly as possible.
+
+   Be pragmatic
+
+   There will always be edge cases or a way to make something more perfect but if what you’re building could use a component that already exists then try to avoid the urge to re-invent it. If you’re a taxi company then investing your funds into making that perfect tyre will not help your business. Always challenge when you depart from using something that already exists. The old adage of “It doesn’t matter if the cat is black or white as long as it catches mice” is relevant here.
+
+   Remove bias and duplication
+
+   Use multiple maps to help you remove duplication and bias within an organisation. You will often find in any large organisation that there are people custom building what is a commodity or rebuilding something that exists elsewhere. Remember, that they’re not doing this because they’re daft but because of pre-existing inertia or the lack of any effective communication mechanism i.e. they simply don’t know it exists elsewhere. Be warned, the level of duplication within most organisations vastly exceeds any expectations that they might have and you’re often treading on the toes of someone’s pet project. Large distributed companies often talk about duplication in the single digits e.g. we have six enterprise content management systems. They tend to react in horror when it is “discovered” that they have hundreds or even “thousands”. People can get very defensive in this space and want to shut you down.
+
+   Use appropriate methods and tools
+
+   Try to avoid the tyranny of one. Understand that there is no magic solution and that you have to use multiple methods (e.g. agile or lean or six sigma) as appropriate. In any large system, multiple methods may be used at the same time. Be mindful of ego here, tribes can form with almost religious fervour about the righteousness of their method. Have fortitude, you’ll often find you’re arguing against all these tribes at the same time.
+
+   Focus on the outcome not a contract
+
+   Try to focus on the outcome and what you’re trying to achieve. Realise that different types of contract will be needed e.g. outsourced or time and material based or worth based development. Along with a focus on outcomes, try and keep contracts constrained in terms of time and budget.
+
+   Use standards where appropriate
+
+   If something is industrialised and if standards exist then try to use them. There’s always a temptation to build a better standard but avoid this or building abstraction layers on top of other “standards” unless you have an extremely compelling reason to do so. If you need a toaster, buy a toaster and don’t try building one from scratch.
+
+   Optimise flow
+
+   Within a map there will be many flows of capital — whether information, risk, social or financial. Try to optimise this and remove bottlenecks.
+
+   Effectiveness over efficiency
+
+   Whilst optimising flow is important, be careful not to waste valuable time making the ineffective more efficient. Understand the landscape and how it is changing before you attempt to optimise flow.
+
+   Manage inertia
+
+   At some point you will face inertia to change e.g. existing practice, political capital or previous investment. Try and understand the root cause. Ideally use a map to anticipate this before you encounter it and hence have prepared solutions & counter arguments. If possible, use the maps to enable people to discover their own inertia.
+
+   Manage failure
+
+   In any system there is risk. Use the maps where possible to help you understand failure modes, what can go wrong and what will be impacted if a component fails. Try where possible to mitigate risks by distributing systems, by designing for failure and by the constant introduction of failure (use of chaos engines such as Netflix’s chaos monkey). Avoid known failure modes such as building large scale (death star) like efforts.
+
+   Think small
+
+   Know the details, use small teams and break large landscapes into small contracts. Don’t be chased away by fears of complexity of management.
+
+   Distribute power and decision making
+
+   Have a bias towards distributing power from the centre including yourself. Put power in the hands of those who are closest to the choices that need to be made.
+
+   Provide purpose, mastery & autonomy
+
+   Provide people with purpose (including a moral imperative and a scope) for action. Enable them to build mastery in their chosen area and give them the freedom (& autonomy) to act.
+
+   Think aptitude and attitude
+
+   Understand that people not only have aptitudes (e.g. finance, engineering, operations and marketing) but different attitudes (pioneer, settler and town planner). The mindsets are different.
+
+   There is no one culture
+
+   Understand that a company which plans for longevity needs to cope with not only the discovery of uncharted components but the use of the industrialised and the transition between these two extremes. You will need different attitudes. You will therefore create many cultures in your organisation e.g. pioneers, settlers and town planners have different cultures. This is not a negative and don’t try to grind everyone into a single bland culture. It will not make them happy.
+
+   Seek the best
+
+   Try to find and grow the best people with the best aptitude and attitude for their roles. Invest in keeping them. Don’t force them into becoming something they’re not. It’s perfectly reasonable for a truly gifted systems tester who excels in a town planning world of massively complicated and automated systems to be paid more than the project manager. What you want to avoid is taking exceptional people out of their role and putting them into something they are not suited to simply because they think that is the only way to progress. Leadership, management and engineering are all aptitudes, they are all valuable and they have to work in concert. If the hierarchy of your organisation uniformly reflects your pay scales then you’re likely to be draining talent from where it should be and putting it into roles that it is not suited for. This is often done for arguments of “responsibility” or “managing bigger teams” (which also causes people to try and accumulate empires) or “spreading
+   experience” or “career path” but there are alternative ways of achieving this. Taking a gifted engineer and turning them into a mediocre project manager is not wise. This is probably one of the most difficult areas as ego is quickly encountered.
+
+   Design for constant evolution
+
+   Create an organisational system which copes with the constant ebb and flow in the landscape. Ideally, changes should flow through your organisation without the need for constant restructuring. A cell based structure using a system of theft with pioneers, settlers and town planners is one such system.
+
+   Use a systematic mechanism of learning
+
+   The purpose of mapping is not just to create a map and a shared understanding but also to learn climatic patterns, doctrine and context specific play. Maps provide a systematic way of doing this as long as you collate, review and learn from them. Have a bias towards such learning and the use of data.
+
+   A bias towards action
+
+   This is best explained through the word’s or Rimmer’s Study Habit (an episode from Red Dwarf).
+
+   “The first weeks of study, he would always devote to the construction of a revision timetable. Weeks of patient effort would be spent planning, designing and creating a revision schedule which, when finished, were minor works of art.
+
+   Every hour of every day was subdivided into different study periods, each labelled in his lovely, tiny copperplate hand; then painted over in watercolours, a different colour for each subject, the colours gradually becoming bolder and more urgent shades as the exam time approached. The effect was as if a myriad tiny rainbows had splintered and sprinkled across the poster-sized sheet of creamwove card.
+
+   The only problem was this: because the timetables often took seven or eight weeks, and sometimes more, to complete, by the time Rimmer had finished them the exam was almost on him. He’d then have to cram three months of astronavigation revision into a single week. Gripped by an almost deranging panic, he’d then decide to sacrifice the first two days of that final week to the making of another timetable. This time for someone who had to pack three months of revision into five days”
+
+   Do not attempt to create the perfect map. Have a bias towards action because the landscape will change and you will discover more through action. You learn by playing the game.
+
+   Listen to your ecosystems
+
+   There are many different forms of ecosystems and ways to exploit them. You can build powerful sensing engines (e.g. the ILC model) for future change, sources of co-operation with others, defensive and offensive alliances. But ecosystems need management, they need tending as a gardener tends a garden — sometimes you allow them to grow wild, sometime you harvest, sometimes you help direct or constrain them. These are particular skills that you can develop but most important is the principle — listen to them.
+
+   A bias towards the new
+
+   Whatever you do will evolve. So have a bias towards the new, be curious and take appropriate risks. Be willing to experiment.
+
+   Be the owner
+
+   Take responsibility for your environment, your actions within it and how you play the game. You could outsource this to a third party in the way a chess player could outsource their gameplay to another but you won’t learn and it is still you that loses.
+
+   Strategy is iterative not linear
+
+   Understand that strategy is iterative. You need to adapt in fast cycles according to the changing environment. The best you can hope for is a direction, a constant process of learning and improvement of your gameplay along the way.
+
+   Do better with less
+
+   Have a bias towards continual improvement.
+
+   Set exceptional standards
+
+   Don’t settle for as good as or slightly better than competitors. Always strive for the very best that can be achieved.
+
+   Strategy is complex
+
+   There will be uncertainty, emerging patterns and surprises along the way. That’s the very nature of competition due to the involvement of other actors. Embrace this, don’t fall for the temptation that you can plan the future. What matters is not the plan but the preparation and your ability to adapt.
+
+   Commit to the direction, be adaptive along the path
+
+   Once you’ve set a direction commit to it. There will often be hurdles and obstacles but don’t just simply abandon a direction because a single step is challenging. Try to find paths around the obstacles. If you’re building a system and a common component is not as expected then that can often prove a market opportunity.
+
+   Move fast
+
+   The speed at which you move around the cycle is important. There is little point implementing FIRE like principles in developing a system if it takes you a year to make decision to act. An imperfect plan executed today is better than a perfect plan executed tomorrow.
+
+   There is no core
+
+   Everything is transient, whatever you think is core to your company won’t be at some point in the future. The only things that are truly static are dead.
+
+   Exploit the landscape
+
+   Use the landscape to your advantage, there are often powerful force multipliers. You might decide not to take advantage of a competitor or a change in the market but that should be a conscious choice.
+
+   Think big
+
+   Whilst the actions you take, the way that you organise and the focus on detail requires you to think small when it comes to inspiring others, providing direction and moral imperative then think big. Your purpose is not to defend the narrow pass of Thermopylae but instead to defeat the Persian army and save the Greek states.
+
+   Be humble
+
+   Listen to others, be selfless, have fortitude and be humble. Inspire others by who you are and what you do. There are many ways to manipulate the landscape e.g. with marketing by persuading others that what is a commodity is somehow different or that a product is unique to them. But these manipulations come with a cost not just externally but internally. We can start to believe our own hype, our own infallibility and our “right” to the market. Avoid this arrogance at all costs.
+
+   As with climatic patterns, the more you play the game then the more forms of doctrine you’ll discover. It’s important to learn these continuously, so get used to using maps as a retrospective. Look for what has changed and always ask why? Of course, knowing about doctrine is not enough — you’ll want to apply it. Don’t pick and choose, apply them all. When it comes to applying doctrine then there are three basic cases:     * the map solves doctrine for you (e.g. having a common language)
+     * you can use many maps to apply doctrine (e.g. use of multiple maps of different lines of business to reduce duplication and bias)
+     * you can apply doctrine directly to a map (e.g. cell based structures, cultural forms such as pioneer — settler — town planner) as shown in figure 159.
+
+See    Figure 159: Apply doctrine
+ for more details.

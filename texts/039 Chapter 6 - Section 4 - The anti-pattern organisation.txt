@@ -1,0 +1,68 @@
+Chapter 6 - Section 4.: The anti-pattern organisation
+
+   I’m a great believer in using anti-patterns to examine the effect of not doing something. In this case, what are the anti-patterns for mapping? In general, they will be the reverse of the doctrine that is developed from mapping along with a failure to cope with climatic patterns and incorrect use of context specific play. We can use this to describe what an organisation that doesn’t understand its landscape should looks like. I often use this as a way of analysing competitors but be careful, there’s a whole topic of misdirection that we haven’t touched upon yet. The anti-pattern organisation will look something like this.
+
+   Fails to focus on user needs.
+
+   Has an inability to describe its user needs and often confuses its own needs — profitability, revenue, data acquisition — with those of its customers.
+
+   Fails to use a common language.
+
+   Uses multiple different ways of describing the same problem space e.g. box and wire diagrams, business process diagrams and stories. Often suffers from confusion and misalignment. None of the tools used will meet those basic characteristics of any map — visual, context specific, position (relative to an anchor), movement and components.
+
+   Fails to be transparent.
+
+   Has difficulty in answering basic questions such as “How many IoT projects are we building?” Information tends to be guarded in silos.
+
+   Fails to challenge assumption.
+
+   Action is often taken based upon memes or Hippo (highest paid person’s opinion) or popular articles in the HBR (Harvard Business Review). Often parts of the organisation will admit to building things they know won’t work.
+
+   Fails to remove duplication and bias.
+
+   The scale of duplication is excessive and exceeds in practice what people expect. Any investigation will discover groups custom building what exists at a commodity in the outside world, their very own Thomas Thwaite toaster. Often resistance is given to changing this because it is somehow unique despite any inability of the group to explain user needs.
+
+   Fails to use appropriate methods.
+
+   Tends towards single size methods across the organisation e.g. “outsource all of IT” or “use Agile everywhere”. This can often be accompanied with a yo-yo between one method (the old emperor) and a new naked emperor based upon its success in a specific example (outcome bias). Expect to hear statements of the form “Six Sigma worked on this project, it’ll work on every project”.
+
+   Fails to think small.
+
+   Tends toward big scale efforts (e.g. Deathstar projects) and big departments. This can include frequent major platform re-engineering efforts or major re-organisations.
+
+   Fails to think aptitude and attitude.
+
+   Tends to consider all of a specific aptitude (e.g. finance, operations or IT) as though it’s one thing. Promotes a mantra of there is only “IT” rather than a nuanced message of multiple types. Tends to create general training courses covering the entire subject e.g. “Let’s send everyone on agile training”
+
+   Fails to design for constant evolution.
+
+   Tends to bolt on new organisational structures as new memes appear. A cloud department, a digital department, a big data group etc. There is another example of what can go wrong here which is best explained by the examination of dual, bimodal & twin speed IT concepts that have become all the rage. The basic premise is that we have two groups, one of which is focused on the new (often the digital) and one is focused on the core operational aspects of the company. It sounds sensible but as I discovered long ago it creates a headache best explained through mapping, see figure 65.
+See    Figure 65: The dual problem
+ for more details.
+   This figure is derived from [84]figure 42 ([85]chapter 4) and I’ve simply cut out the middle “settler” group. What happens is your town planner build a new component service (A1 to A2) which your pioneers build upon (B1). All is working well so far until the pioneers ask the town planners to take over the new activity. The response will generally be negative as in “it’s too flaky” because it hasn’t become a well formed product yet, it’s unstable and it lacks documentation as there is no-one managing its evolution. The pioneers also want to move on and so arguments ensue. Eventually the pioneers start building on top of their own component (B1 to C1). The net result is a never growing platform and a increasingly unreliable spaghetti junction of new built upon new. This will negatively impact performance until someone suggests a “deathstar” like grand platform re-engineering effort.
+
+   Unfortunately, the new platform will suffer from the same problems when we start building upon it because the structural problem (the “missing” settlers) hasn’t been fixed. Unbeknownst to most, these dual structures might give a short term win but they will lead you down a path of never growing platforms, spaghetti junctions and costly platform rewrites. Great for consultants in re-organisation and flogging new memes but terrible if you’re actually a business trying to get something done in a sustainable manner.
+
+   Fails to enable purpose, mastery and autonomy.
+
+   There is often confusion within the organisation over its purpose combined with feelings of lacking control and inability to influence.
+
+   Fails to understand basic economic patterns.
+
+   Often conducts efficiency or innovation programmes without realising the connection between the two. Assumes it has choice on change (e.g. cloud) where none exists. Fails to recognise and cope with its own inertia caused by past success.
+
+   Fails to understand context specific play.
+
+   Has no existing language that enables it to understand context specific play. Often uses terms as memes e.g. open source, ecosystem, innovation but with no clear understanding of where they are appropriate.
+
+   Fails to understand the landscape.
+
+   Tends to not fully grasp the components and complexity within its own organisation. Often cannot describe its own basic capabilities.
+
+   Fails to understand strategy.
+
+   Tends to be dominated by statements that strategy is all about the why but cannot distinguish between the why of purpose and the why of movement. Has little discussion on position and movement combined with an inability to describe where it should attack or even the importance of understanding where before why. Often strategy is little more than a tyranny of action statements based upon meme copying and external advice.
+
+   Hence, if you’re unsure of where your organisation currently stands, use the above to help you reflect on the state of situational awareness within the company. I’ve provided this also as a comparison in figure 66 but do remember this is solely a guide for you to discuss and reflect upon your own organisation’s state.
+See    Figure 66: Signals of
+ for more details.

@@ -1,0 +1,8 @@
+Chapter 11 - Section 3.: It’ll save me money and other lies we tell ourselves.
+
+   There are many lies we tell ourselves in business:- the environment changes slowly, we can predict the uncertain, we can outsource our own risk, management can be made simple, the key to success is implementing this culture or that innovation or this principle or that method. If anything, I hope that mapping is teaching you that there are no single methods or simple answers but you can still manage this.
+
+   These maps help you to describe an environment that consists of multiple evolving components. They contain simple components that have the perception of being well known, well defined and common such as the nut and bolt or the plug. They also contain chaotic components that are uncertain and we do not yet understand such as the genesis of the new. The environment itself can be complicated with many components and at the same time complex in that you have to dynamically respond to changes both caused by climatic patterns and other competitors actions. These terms of simple, chaotic, complex and complicated have quite precise meanings and I’d recommend the reader spending some time becoming familiar with the work of Dave Snowden and the Cynefin framework.
+
+   Despite all of this, we try to grab for simple truths. In 2008, this was commonplace in the world of cloud computing mainly due to the confusion that existed. I thought I’d use a few “simple truths” that turn out not to be either simple or true to illustrate some climatic patterns that are worth knowing about.
+

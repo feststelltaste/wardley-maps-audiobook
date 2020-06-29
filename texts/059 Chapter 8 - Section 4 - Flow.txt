@@ -1,0 +1,38 @@
+Chapter 8 - Section 4.: Flow
+
+   I’m now going to combine the ideas of worth based (outcome) development and pricing granularity to introduce an idea known as flow. To do this, we’re going to revisit the LFP project but this time with a map and the knowledge of what a utility platform can bring. Back when we were actually working on the LFP project, I hadn’t developed the mapping concept fully and Zimki wasn’t released. Hence this is a post event analysis and more of a what could have happened rather than what did.
+
+   So, let us go back to 2008. We know how to map (we knew this in 2005). Let us imagine that Zimki (launched in 2005) had survived or some other equivalent platform as a service has arisen. Let us now imagine a scenario where the client has turned up with the LFP project and is willing to build this using worth based development (as happened in 2003).
+
+   In figure 84, I’ve created a map of the worth based LFP project. I won’t mark-up points on this map, hopefully you’ve enough experience now to start reading them.
+See    Figure 84: Map of the LFP project
+ for more details.
+   The map begins with our client who has a need for more leads and ultimately consumers buying their product. The conversion from lead to actually purchasing a printer is beyond the scope of this project as that was within the client’s sales organisation. We’re focused solely on generating leads. The other type of user in this map is the consumer who hopefully will buy one of these expensive printers. They have different needs, they want to find out about the right sort of printer for their commercial operations and to test it before buying something they will use. In this project, we’re aiming to provide an online mechanism for the consumer to find out about the printer (a microsite) along with a method to test it (the testing application).
+
+   The test is a high resolution image that the user uploads and which is then printed out using the printer of their choice. Their poster (this is large format) would then be distributed to the user along with a standard graphical poster (showing the full capabilities), relevant marketing brochures and a sales call arranged. The platform space — which was the source of my original headaches due to my inability to provide a variable operational cost for application use — is evolving towards more of a utility service.
+
+   So, let us assume we decide to use a utility platform. I’m now going to add some financial indicators onto this map. See figure 85.
+See    Figure 85: Financial indicators in the LFP project
+ for more details.
+   From the map, we hope to have users visit our microsite which would extol the benefits of owning a large format printer. This hopefully persuades some of these visitors to go and test it out. The act of turning a visitor into an actual lead requires the user to test a printer. So we have multiple conversion rates e.g. from microsite to testing application and from visitor to lead. At the start these will be unknown but we can guess.
+
+   Normally, operating a microsite requires all those hard to calculate costs but in a utility platform world, your application is simply a function running on the platform and I’m charged for use. The operational cost of my microsite is basically the number of visitors x the average cost of the microsite function. Remember, an application consists of many functions and users can navigate around it which means some “wandering” users turn out to be more expensive than others. But we can cope with that by taking an average for our microsite.
+
+   The same will apply to my “test the printer” (testing) application but in this case the users will include converted visitors from the microsite along with those who directly visit. Every use of the testing application (a function) will incur a cost. But as with the microsite, this is a variable. Of course, the actual functional cost of the testing application could be wildly different from the microsite depending upon what the applications did and how well the code was written but at least we would have a granular price for every call. Finally, every visitor who tests a printer will create a distribution and printing cost for me but also revenue as they have become a lead.
+
+   This isn’t the only path by which someone can print out a poster. The visitor might not come from the microsite but instead go directly to the testing application through word of mouth or if we expose the testing application as an API. There are a number of potential flows through the map.
+
+   When you look at any map, there can be many forms of flow within it whether financial or otherwise. It could be flows of revenue or flows of risk. For example, if the utility platform dies due to some catastrophic event then it’ll impact my microsite and my testing application which will impact the consumer needs and stop any lead generation. This would incur a financial penalty for me in terms of lost revenue. Whereas, if I run out of brochures then this impacts distribution and I have a choice on whether to send out the prints now or delay until the brochures are available. In figure 86, I’ve given an example of a flow within a map from potential consumer through their need to microsite to testing application to distribution.
+See    Figure 86: Flow of the LFP project
+ for more details.
+   It’s important to note that the interfaces between components in a map represent these flows of capital whether physical, financial, information, knowledge, risk, time or social. It could be anything which we trade. Things are rarely free. Whenever you use a service then you’re trading something whether it’s information or social capital (e.g. loyalty to a scheme) or even just your time (e.g. to create new entries, to edit the content).
+
+   By using the concept of flow, it is relatively simple to build a financial model for the system. In figure 87, I’ve created the skeleton of such a model for the map above.
+See    Figure 87: Building a financial model for LFP
+ for more details.
+   This is like manna from heaven for someone trying to build a business. Certainly I have the investment in developing the code but with the application being a variable operational cost then I can make a money printing machine which grows with users. It also changes my focus on investment — do I want to invest in increasing marketing for more users, or the conversion rate, or maybe the testing application is so badly written (or a function within it) that investing in coding improvement will bring me better returns? Suddenly, the whole way I build a business and invest is changed.
+
+   Now back to when we originally built LFP in 2003. There wasn’t a utility platform, I didn’t have maps and I didn’t have the concept of flow. Instead myself and my CFO had a mass of spreadsheets trying to calculate what the above did and cope with all the stepwise investments and capital costs needed. What was a nightmare in 2003 is child’s play in 2016.
+
+   Whenever you’re building something novel, then the game is to use operational expense over capital as much as possible in order to reduce risk either due to the system not being used or growing rapidly. You want to tie the cost as close to the path of revenue generation especially within any worth based system when you’re gambling on an uncertain outcome. However, there will always be some investment e.g. writing the application, marketing the microsite. This sort of modelling can help you identify which options improve the equation and hence where you should invest for the future.
+

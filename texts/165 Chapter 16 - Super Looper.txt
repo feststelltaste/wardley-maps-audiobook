@@ -1,0 +1,5 @@
+Chapter 16 - Super Looper
+
+
+   The LFP example is based upon a real-world event. I say “based” because I usually take time to disguise the actual event to protect any guilty parties. In this case, the haphazard and stumbling CEO was … me. I’m very wary that my long experience with mapping means that I tend to gloss over parts through assumption. In much the same way, I spent six years assuming everyone already knew how to map and it wasn’t until 2011 that I started to realise they didn’t. With that in mind, I’m going to go into excessive detail in the hope that I don’t miss anything useful to you. To keep it relevant and not just a history lesson, I’m going to go through the steps of how you would tackle the LFP scenario as if it was happening today.
+

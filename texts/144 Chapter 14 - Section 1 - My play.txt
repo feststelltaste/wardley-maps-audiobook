@@ -1,0 +1,31 @@
+Chapter 14 - Section 1.: My play
+
+   Back in 2008, when I was faced with the situation that our scenario is very vaguely derived from, it had taken me about 45 minutes to scribble out a map on pen a paper and work through to an “answer”. In case you need a map for the scenario, I provided their chosen strategy (figure 181) and a map for on which I’ve outlined the strategy (figure 182)
+See    Figure 181: The Phoenix strategy
+ for more details.See    Figure 182: Map with strategy
+ for more details.
+   As discussed in xref:#chapter-13-something-wicked-this-way-comes[chapter 13 — Something wicked this ways comes] — then I view that the strategy is about as poor as you can get. To cap it all off, the company itself has serious flaws in its makeup and composition. The CEO supported by a group of well trained executives is boldly charging the army over a cliff whilst trying to get rid of the one person who might possibly save them — the former CIO.
+
+   To work through this problem to final a possible answer then we need to first distinguish where we could attack. Even on a simple map like this then there’s lots of points we could focus on. It’s much the same with a game of chess, there’s usually a huge number of potential moves you could make. The trick is sorting out which ones are of interest and that takes experience and practice of the game. In figure 183 I’ve listed the obvious wheres on our map ignoring the more wishful thinking such as “buy up the Chinese sensor manufacturer”.
+See    Figure 183: The wheres
+ for more details.    1. focus on marketing towards our users.
+    2. develop new and uncertain capabilities.
+    3. exploit the Brazil market
+    4. sell the company
+    5. exploit inertia in customers to the change
+    6. build a cloud service
+    7. build something with the new emerging practice
+    8. dispose of the legacy
+    9. industrialise the data space
+   10. exploit inertia in the industry around the China sensors.
+
+   In such a map, there are always many paths. One path describes how the company thought of its future and the strategic choices it was making. It’s quite clear that the company could not see the threat of the sensors and co-evolution of practice or how dangerous the US company was or even how it had inertia to change. In all likelihood, such a company wouldn’t even understand how things evolve. In their mind, they might have an unwritten map but it’ll look more like figure 184. To this company, their strategy makes sense because they don’t understand how the landscape is changing. The commodity sensors are just a disconnected component which they believe they have choice over or the cloud is just an optional choice. They have none of the anticipation that is brought on by an understanding of climatic patterns
+See    Figure 184: The Phoanix map
+ for more details.
+   That said, they were motivated. It’s a judgement call here as to whether an organisation can be altered in a time frame that enables you to exploit an environment. In this case, given the principles (i.e. doctrine) exhibited then I’d say not. There isn’t enough time to alter the company and go head to head with the US competitor, this is a battle better withdrawn from for now.
+
+   However, I have several secret weapons. First, the US competitor is using the same expensive sensor and they probably have their own internal inertia to change given their success in the US which means their code base will become legacy. Secondly, just because I can anticipate the future situation then that doesn’t mean the market can. From the analyst reports and interest in acquisition we know that Phoenix is seen as a bit of a star in the market. Lastly, we also have that CIO who shows some promise, some insight, despite the company’s attempt to get rid of her.
+
+   Applying a bit of thought to the map, another path now becomes available or in this case two paths as it’s a combination of simultaneous plays. I’ve marked these in orange and grey on the map in figure 185.
+See    Figure 185: My play
+ for more details.

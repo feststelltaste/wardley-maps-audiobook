@@ -1,0 +1,4 @@
+Chapter 8 - Section 6.: Before we move on
+
+   In the last few chapters, we’ve been sneaking around the strategy cycle covering mainly purpose and then landscape. You should be familiar enough with the strategy cycle that I don’t need to repeat it. We will keep on looping around this, sometimes diving into interconnections as we go. Anyway, this will be the last time that I’ll mention that. We should recap on some of the ideas from this chapter.
+

@@ -1,0 +1,38 @@
+Chapter 2 - Section 1.: The first map
+
+   In later chapters I’m going to dive into the details of how this first map was created, how I discovered that anchor and ultimately described the movement of evolution. However, for our purposes I’m going to simply show you a map, explain what bits matter and then use it to navigate the strategy cycle. I would dearly love to claim that this map was the result of some towering intellectual might but in reality, as you will later discover, it was more trial and error combined with endless accidents. Figure 8 is what a map of a single line of business should look like. I created my first map in 2005 and it was for an online photo service that I ran. Take a few minutes to read it carefully.
+See    Figure 8: A Map
+ for more details.
+   The map is visual and context specific i.e. it is unique to that line of business containing the components that influence it at that moment in time. This is not a map of an automotive industry in 2016 or a pharmaceutical company in 2010 but instead an online photo service in 2005. The map has an anchor which is the user (in this case a public customer though other types of users exist) and their needs. The position of components in the map are shown relative to that user on a value chain, represented by the y-axis. Each component needs the component below it, however the higher up the map a component is then the more visible it becomes to the user. The lower it is then the less visible it becomes. For example, in that first map the user cares about online photo storage but whilst this needs the provision of underlying components such as compute and power, those components are positioned far from the user and hence are less visible.
+
+   I could have described this as a chain of needs but I wanted to emphasise what the user valued. They cared about what was provided to them and not who provided my electricity. Of course, as the provider of the service, I cared about everything — my users’ needs, what compute we used and even what electricity provider we employed. In much the same way, the user cares about the toaster and what it does and not that you lovingly created nickel heating elements by hand rather than using standard components. Though, they will probably care if you try and charge them a thousand pounds for a toaster which bursts into flames at first use.
+
+   The components of the map also have a stage of evolution. These are:
+   Genesis. This represents the unique, the very rare, the uncertain, the constantly changing and the newly discovered. Our focus is on exploration.
+
+   Custom built. This represents the very uncommon and that which we are still learning about. It is individually made and tailored for a specific environment. It is bespoke. It frequently changes. It is an artisan skill. You wouldn’t expect to see two of these that are the same. Our focus is on learning and our craft.
+
+   Product (including rental). This represent the increasingly common, the manufactured through a repeatable process, the more defined, the better understood. Change becomes slower here. Whilst there exists differentiation particularly in the early stages there is increasing stability and sameness. You will often see many of the same product. Our focus is on refining and improving.
+
+   Commodity (including utility). This represents scale and volume operations of production, the highly standardised, the defined, the fixed, the undifferentiated, the fit for a specific known purpose and repetition, repetition and more repetition. Our focus is on ruthless removal of deviation, on industrialisation, and operational efficiency. With time we become habituated to the act, it is increasingly less visible and we often forget it’s even there.
+
+   This evolution is shown as the x-axis and all the components on the map are moving from left to right driven by supply and demand competition. In other words, the map is not static but fluid and as components evolve they become more commodity like.
+
+   In figure 9, I’ve taken the original map above and explicitly highlighted the elements that matter. This map has all the basic elements of any map — visual, context specific, position of components (based upon an anchor) and movement. In later chapters as appropriate we will explore each in more detail.
+See    Figure 9: Basic elements of a map
+ for more details.
+   However, the map also has some advanced features which are not so immediately obvious. There is a flow of risk, information and money between components. The best way to think of this is by use of a military example. You have components such as troops which might occupy different positions on the map but along with movement, you also have communication between the troops. That communication is flow. It’s important not to mix those ideas together because it’s easy to have troops effectively communicating together but at the same time being ineffective by moving in the wrong direction. There can be several reasons for this including the wrong orders are given or there is no common understanding of purpose.
+
+   The components can also represent different types of things, the military equivalent of different troops — infantry, tanks and artillery. In these Wardley maps, the common name now given to them due to my inability to find something useful to call them, then these types represent activities, practices, data and knowledge. All of these types of components can move and in our case this means evolve from left to right driven by competition. However, the terms we use to describe the separate stages of evolution are different for each type. In order to keep the map simple, the x-axis of evolution shows the terms for activities alone. The terms that I use today for other types of things are provided in figure 10.
+See    Figure 10: Types and stages of evolution
+ for more details.
+   Lastly climatic patterns can be shown on the map. I’ve highlighted these more advanced elements onto figure 11.
+See    Figure 11: Advanced elements of a map
+ for more details.
+   In the above map, platform is considered to be evolving to a more utility form and inertia exists to the change. Normally, we don’t mark up all of these basic and advanced elements in this way. We simply accept that they are there. However, it’s worth knowing that they exist. The normal way to represent the above map is provided in figure 12.
+See    Figure 12: A standard representation
+ for more details.
+   Now with a simple map such as figure 12, we can start to discuss the landscape. For example, have we represented the user need reasonably and are we taking steps to meet that user need? Maybe we’re missing something such as an unmet need that we haven’t included? Are we treating components in the right way? Are we using a utility for power or are we somehow building our own power station as though it’s a core differentiator visible to the user? If so, why? Have we included all the relevant components on the map or are we missing key critical items? We can also start to discuss our anticipations of change. What happens when platform becomes more of a utility? How does this affect us? What sort of inertia will we face?
+
+   Maps are fundamentally a communication and learning tool. In the next chapter we’re going to loop through the strategy cycle in order for me to teach you some of the basic lessons that I learned. However, before we do this, I just want to describe a few steps to help you create your own maps.
+

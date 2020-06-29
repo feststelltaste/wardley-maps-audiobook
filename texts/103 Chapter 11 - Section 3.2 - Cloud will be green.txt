@@ -1,0 +1,7 @@
+Chapter 11 - Section 3.2.: Cloud will be green
+
+   Another common talking point in 2008 was whether cloud computing would be green. There was a lot to this from the substitution of physical goods for digital to the levels of inefficiency in the existing industry to the material waste in unused capacity to the means of energy provision. There was undoubtably a lot of waste and potential for improvement hence an argument could be made for Cloud being green. However, there’s something more long term to be thought about here.
+
+   When we consider a value chain, we’re constantly industrialising components and building new systems on top of them. Machinery on top of the nut and bolt. Intelligent software agents on top of databases on top of computing on top of electricity. We are constantly creating higher order systems built upon more industrialised and ordered components. We are building towers of order out of the chaos. As with other biological systems, we are decreasing local entropy and that requires energy. We might be far from efficiently using energy today but regardless our underlying demand and consumption of power will increase (see figure 144). In order for progress to be green then inevitably we need to turn to the means of energy production.
+See    Figure 144: Feel the power
+ for more details.

@@ -1,0 +1,6 @@
+Chapter 11 - Section 2.5.: Pig in a poke
+
+   By far the best approach is to convince someone to pay you for your legacy. Just because you are aware that the environment is changing does not mean everyone else is aware. You’ll need a bit of misdirection here such as generating a future story for the legacy. In the case of the communication platform above, you might convince another company that enterprise application stores are the future. If you have a pre-existing home grown application store then you can sell it to them including some of the underlying environment (from infrastructure to staff) as a “future business” whilst ensuring you have access ideally on a utility basis hence providing a revenue stream for the buyer and making the deal seem “sweeter”. During this time you work on your replacement (e.g. shifting to Google Play) before dumping your use of the legacy store. This can be a surprisingly effective way to monetise legacy. This will definitely not win you friends with the people you sell it to but then caveat emptor!
+
+   When you think about contracts, then look to break them down into small components, don’t be afraid to manage the risk and also think about how you can even turn your legacy into an opportunity with a bit of sleight of hand.
+

@@ -1,0 +1,9 @@
+Chapter 13 - Section 3.: Examining doctrine
+
+   When I want to get a sense of company and its ability to adapt, to cope with the unexpected, to learn and to be resilient to competition itself then I start looking at the universal principles it applies. I’m not looking for resilience to known scenarios but our ability to adapt to the unknown and to cope with the flow of evolution. In this case the CEO talks about the values of the company which include “responsibility, integrity, transparency, compassion, empathy, adaptiveness and decisiveness.”
+
+   These values seem all perfectly reasonable, however there are two things to consider. Firstly, companies are often very good at saying one thing and then doing something else. Secondly, executives and consultants are often very good at coming up with simple “truths” that have no data behind them. I can only judge this in terms of what I have evidence for, hence the Wardley Doctrine in [224]chapter 11 — a smorgasbord of the slightly useful.
+
+   For example, let us take empathy. It seems like it should matter, but does it? Is it a universal principle? What evidence do I have that it works in all cases and isn’t context specific? Maybe empathy matters more in a care home than on a factory line? I don’t know and so I can’t judge on this. However, there’s lots of things I was told in the scenario which I can comment on. I’ve highlighted the areas of doctrine in figure 179 using a green (for that warm fuzzy feeling), amber (for concern) and red (potential for setting off alarm bells) motif.
+See    Figure 179: Doctrine
+ for more details.

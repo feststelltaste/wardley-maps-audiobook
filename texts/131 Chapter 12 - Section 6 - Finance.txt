@@ -1,0 +1,15 @@
+Chapter 12 - Section 6.: Finance
+
+   The CFO provides an overview of the company performance including a basic P&L for the company with estimates for future years (figure 165) that costs the program of changes highlighted by the strategy.
+See    Figure 165: P&L
+ for more details.
+   The CFO highlights the following :
+     * The company is profitable with a revenue in excess of £120M p.a., a 10% YoY (year on year) growth and an EBITDA of 26%. The company has a healthy cash flow and reserves.
+     * There has been a recent re-organisation in 2016 with digital combining with product development (previously under the CIO) but now run under the CDO. There has been investment in this space particularly in new technology areas within the company such as the use of social media and cloud based tools. There has also been an investment in features within Phoenix and a recruitment drive for talent.
+     * It is expected that the digital group will expand significantly over the next two years with the development of the cloud service which is anticipated for launch near the end of 2020. Though the company is experiencing growth, the investment will have a material effect on EBITDA during 2017 and 2018. There will also be a major marketing campaign around the cloud service starting in 2020.
+     * The IT function now runs internal systems and data management. It is expected that efficiency savings can be made in core legacy systems and that shift towards an external data set will reduce IT costs significantly in 2018. This will be offset by some increase due to the cost of setting up operations in Brazil.
+     * The launch of the Brazil is planned for 2018. This will include a significant marketing drive, some additional admin (HR), finance and IT costs along with increased sales costs.
+     * By 2021, it is expected that the launch of Brazil, the Cloud service along with the efficiency drive in IT will have significantly impacted revenue growth and improved EBITDA. The company by 2021 will have transformed to a more sales, marketing and digital led organisation.
+
+   The CEO concludes the meeting and privately apologises afterwards for the reaction of the CIO. He explains “it has been difficult because of the changes. However, this organisation is no longer a startup and some people just have not found adjusting to this new world that easy”. You ask what he plans for the CIO and he comments with a wry smile “well, Sarah did express some interest in setting up the Brazil operation but I think she knows that sometimes you just have to move on”.
+

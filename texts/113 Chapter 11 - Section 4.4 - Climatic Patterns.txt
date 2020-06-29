@@ -1,0 +1,118 @@
+Chapter 11 - Section 4.4.: Climatic Patterns
+
+   Everything evolves through supply and demand competition
+
+   If the conditions exist that a person or groups of people will strive to gain some form of advantage or control over others due to a constraint (i.e. a limitation of a resource or time or money or people) then we have competition. If competition exists then the components effected will evolve until they become industrialised. This impacts everything from activities (what we do), practices (how we do something), data (how we measure something) to knowledge (how we understand something). The map is never static but dynamic. It’s also important to understand that if competition exists then you will be in conflict with others. Sometimes the best way of resolving this is through coopetition (i.e. cooperative competition) and building alliances. In other cases, depending upon the context, then you have to fight even to the point of a game of last man standing. In any significant landscape then you’re likely to find yourself building alliances on one part of the map whilst at the same time
+   fighting other companies in another and withdrawing from a third. However as the components on your map evolve then your former allies can become foes and vice versa. Microsoft and open source used to be mortal enemies, they’re now often found to be best buddies. To manage such a dynamic and fluid environment then you’re going to need to be able to observe it.
+
+   Evolution consists of multiple waves of diffusion with many chasms.
+
+   Evolution consists of many instances of the same act e.g. a phone, a better phone and an even better phone. Every instance of an evolving act will diffuse through its applicable market. Those markets will change as the act evolves i.e. the market for the first custom built phones is not the same as market for more industrialised phones. The process of evolution can include sustaining, incremental and discontinuous change e.g. product to product improvements or product to product substitution. This path is not smooth, it is not linear, it has many branches and dead ends (e.g. phones that failed). Furthermore the actions of individual players are unpredictable. Hence you can know the direction (e.g. phones will industrialise over time) but not the steps and the exact path taken (this phone will be more successful than that phone) until you have walked it.
+
+   You cannot measure evolution over time or adoption.
+
+   The only consistent mechanism I’ve found for measuring evolution is ubiquity and certainty i.e. how well understood, complete and / or fit something is for the environment.
+
+   The less evolved something is then the more uncertain it is
+
+   By definition, the novel and new are more uncertain than industrialised components such as commodities and utilities. The uncharted space consists of the unknown i.e. “Ere be dragons”.
+
+   No choice over evolution
+
+   In a competing ecosystem then the pressure for adoption of a successful change increases as more adopt the change. This is known as the “Red Queen” effect i.e. you have to continuously adapt in order to keep still (in terms of relative position to others). The one thing that standing still will guarantee is that you will be overtaken. The Red Queen has a secondary effect which is by adaptation then competitors limit the growth of a single company and prevent a run away process.
+
+   Commoditisation does not equal Centralisation
+
+   Don’t confuse evolution to a commodity with centralisation. They are governed by different factors and an industrialised component can easily yo-yo between centralised and decentralised forms. Competitor gameplay is one of those factors which determine whether we’re going to start with a more centralised or decentralised world.
+
+   Characteristics change as components evolve
+
+   The characteristics of a component in the uncharted space are not the same as the characteristics of the same component when it becomes industrialised. In any large system then you’re likely to have components at different ends of the evolution scale. This leads to the Salaman & Storey Innovation paradox of 2002 i.e. the need to innovate requires polar opposite capabilities to the need to be efficient. However, a word to the wise, a company has to manage both the extremes along with the evolution between them. It’s really important to remember that there is a transition from uncharted to industrialised. Don’t organise by the extremes alone.
+
+   No single method fits all
+
+   Because of this changing characteristics there is no one size fits all methods or technique applicable across an entire landscape. You have to learn to use many approaches and so avoid the tyranny of any single one. However, expect tribes to form and endless pointless debates such as agile versus six sigma or outsourcing vs insourcing.
+
+   Components can co-evolve
+
+   All components can evolve whether activities, practices, data or knowledge but they can also co-evolve. This is commonly seen with the co-evolution of practice (how we do something) with the evolution of an activity (what we do) especially as we shift from products to more industrialised forms. What causes this is the change of characteristics of the activity. DevOps is one such example of co-evolution.
+
+   Efficiency enables innovation
+
+   Genesis begets evolution begets genesis. The industrialisation of one component enables novel higher order systems to emerge through componentisation effects. But it also enables new features for existing products to appear or even the evolution of other components. The industrialisation of mass communication to a standardised utility such as the internet enabled the industrialisation of computing to a utility. I use the word innovation to describe all those changes from the genesis of a new act, feature differentiation of an existing act or a change of business model (e.g. shift from product to utility). The evolution of one component and its efficient provision enables innovation of others.
+
+   Higher order systems create new sources of value
+
+   It is the genesis of new components, enabling new user needs that creates future sources of differential value. I specifically state “enabling” because in many cases the users are unaware of the future needs they might have.
+
+   Future value is inversely proportional to the certainty we have over it.
+
+   Genesis of a component is inherently uncertain but it is also the point at which a component has its highest future value. You have to gamble with the novel but there’s also the potential for huge rewards. As the component evolves, its potential for differential value declines as it becomes more ubiquitous in its applicable market. This also means that any component that has not reached ubiquity must retain some uncertainty and some element of risk. The only conditions where a well understood, almost risk free component exists that is not ubiquitous and is of high value is when there is some form of restriction on competition e.g. a constraint through patents or monopoly. Care must also be taken not to confuse the terms common as in “everyone has one” with ubiquity to its applicable market. Many components have resource constraints (e.g. gold) or the market need is specific (e.g. wigs for barristers and judges).
+
+   Efficiency does not mean a reduced spend
+
+   Whilst evolution does result in more efficient provision of a component this should be not be confused with a reduction of spending on it. In many cases there is a long tail of unmet demand that efficiency will enable or previously uneconomical acts that become feasible or even the creation of new industries that result in greater demand. This is known as Jevon’s paradox.
+
+   Evolution to higher order systems results in increasing energy consumption
+
+   The constant evolution of components and creation of higher order systems that then evolve means we are always moving to a more ordered environment by reducing local entropy. This requires the constant input of greater amounts of energy though in some cases this can be hidden due to efficiency gains from previous wasteful consumption.
+
+   Capital flows to new areas of value
+
+   The lines on the map represent flows of capital whether it’s between two existing components or a component and its future more evolved self. Financial capital will seek the area of most consistent return. Hence in the evolution from product to a utility then capital will tend to move away from the pre-existing product forms and towards the more industrialised component and the new industries built upon it
+
+   Evolution of communication can increase the speed of evolution overall
+
+   Evolution consists of many diffusion curves. If a means of communication evolves to a more industrialised form — whether printing press, postage stamp, telephone, the internet — then the speed of diffusion curves can increase. This in turn can accelerate the rate at which future components evolve. Care should be taken here, not to confuse faster evolution with us becoming more innovative as a people. Certainly we have greater opportunity to build new things but don’t assume we’re getting smarter.
+
+   Change is not always linear
+
+   There can often be a perception that change is gradual because one instance of a component (e.g. a product) is replaced by another in the same stage of evolution (i.e. a more feature complete product). This illusion of smooth and gradual change lulls us into a false sense of security that all change is such.
+
+   Shifts from product to utility tend to demonstrate a punctuated equilibrium
+
+   The shift across a boundary e.g. from custom to product or from product to commodity tend to visibly exhibit rapid exponential change and a shift from the past. This is known as a punctuated equilibrium.
+
+   Success breeds inertia
+
+   Any past success with a component will tend to create resistance to changing that component. There are many different forms of inertia.
+
+   Inertia increases the more successful the past model is
+
+   The more success we have had with a component then the more resistance and bias we have against it changing.
+
+   Inertia can kill an organisation
+
+   Contrary to popular belief, it’s not a lack of innovation that harmed companies such as Blockbuster and Kodak but instead inertia to change created by past success. Both these companies helped develop the future industries but suffered at the hands of their past business models.
+
+   Creative Destruction
+
+   The combination of inertia, a punctuated equilibrium, the red queen and co-evolution of practice means that as we shift across a boundary e.g. product to utility then we tend to get rapid destruction of the past (from business models to practice) along with creation of the new (industry and practices). This was described as creative destruction by Joseph Schumpeter.
+
+   Competitors actions will change the game
+
+   Climatic patterns are ones that depend upon aggregated market effects e.g. evolution through supply & demand competition. This means that you cannot stop them without preventing competition in the market and the existence of competitors will cause them to happen.
+
+   Most competitors have poor situational awareness
+
+   Competitor actions are an important part of anticipation. In general however this is not something that you can directly control or even anticipate beyond aggregated effects. Fortunately in today’s climate then most competitors act as blind players in which case you do not need to dwell too much on their actions. When you make a move, they are unlikely to understand why or counter you. In the near future, given the potential interest in business algorithms, they maybe even become anticipatable blind automatons following coded secrets of success. In much the same way that Dan Mirvish noted that when Anne Hathaway was in the news, Warren Buffett’s Berkshire Hathaway’s shares went up due to suspected sentiment analysis run by robotic trading platforms. This could make the game even easier.
+
+   Not everything is random
+
+   Not everything is uncertain within the map. There are various aspects which can be anticipated though the level of predictability is not uniform. In some cases you can say what will happen due to aggregated market effects (e.g. this act will evolve) but not precisely when the next iteration of a more evolved product will appear (e.g. it depends upon actors action). In other cases you can anticipate both the what and the when.
+
+   Economy has cycles
+
+   The economy demonstrates cycles such as the peace, war and wonder cycle. We start with the wonder of a new, uncommon and poorly understood thing. As we learn more then the applicable market grows and products are produced. New giants form and dominate a rather peaceful time of sustaining competition. There is some disruption (i.e. product to product substitution) and the competition is still fierce but the giants generally weather these storms. Then the act evolves to more industrialised forms, new entrants become the new titans, past giants tend to fall being stuck behind inertia barriers created from their own success. This is the time of war where competition becomes life threatening for those past giants. New industries built on the industrialised components form and a new state of wonder is born.
+
+   Two different forms of disruption
+
+   There is more than one form of disruption such as the unpredictable product to product substitution to the more predictable product to utility substitution. The latter can be anticipated through weak signals.
+
+   A “war” (point of industrialisation) causes organisations to evolve
+
+   The industrialisation of an act will tend to cause co-evolution of practice and changes to how organisations operate. If the component is significant then this can lead to a new form of organisation.
+
+   You need to apply these patterns to your map to start to learn how things could change. You then need to allow others to challenge your assumptions and the scenarios you create — another key part of learning — until you’ve got a map you all agree with or at least understand e.g. figure 158
+See    Figure 158: Anticipating change
+ for more details.

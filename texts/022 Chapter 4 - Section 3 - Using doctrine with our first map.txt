@@ -1,0 +1,21 @@
+Chapter 4 - Section 3.: Using doctrine with our first map
+
+   When you read the list of doctrine, it mainly sounds like common sense. Most of them are but then again, they’re very difficult to achieve. You really have to work hard at them. In the case of “remove duplication and bias” then you can’t effectively apply it to your first map because it requires multiple maps. However, even with a simple map, you can apply some of these doctrines. In figure 45 I’ve taken our first map which we applied common economic patterns to [56]figure 28 ([57]Chapter 3) and shown where doctrine is relevant.
+See    Figure 45: Applying doctrine and economic patterns to our first map
+ for more details.
+   Point 1 — focus on user needs. The anchor of the map is the user, in this case a customer.
+
+   Point 2 — The map provides a common language. It provides a mechanism to visually challenge assumptions.
+
+   Point 3 — Use appropriate methods (agile, lean and six sigma or in-house vs outsource) and don’t try to apply a single method across the entire landscape
+
+   Point 4 — Treat the map as small components and use small teams (e.g. team 4)
+
+   Point 5 — Consider not only aptitude but attitude (pioneers, settlers and town planners)
+
+   Point 6 — Design for constant evolution. The components will evolve and this might require the formation of new teams (e.g. team 8) with new attitudes.
+
+   It’s worth taking a bit of time to reflect on figure 45. What we have is not only the user needs, the components meeting those needs and the common economic patterns impacting this but also an anticipation of change, the organisational structure that we will need and even the types of methods and culture that are suitable. All of this is in one single diagram. In practice, we normally only show the structures on the map that are relevant to the task at hand i.e. if we’re anticipating change then we might not show cell structure, attitude and hence cultural aspects. However, it’s worth noting that they can all be shown and with practice you will learn when to include them or not. After a few years you will find that much of this becomes automatic and the challenge is to remember to include structures for those that are not initiated in this way of thinking.
+
+   We are now in a position of understanding our landscape, being able to anticipate some forms of change due to climatic patterns and we have an understanding of basic universal doctrine to help us structure ourselves. We’re finally at a point that we can start to learn the context specific forms of gameplay which are at the heart of strategy. With a few basic lessons about gameplay then we will be ready to act.
+

@@ -1,0 +1,38 @@
+Chapter 11 - Section 4.8.: Gameplay
+
+   Open approaches
+
+   Whether source or data or practice, the act of making something open reduces barriers to adoption, encourages collaboration and accelerates the evolution of the component.
+
+   IPR
+
+   Intellectual property rights (IPR) can be used to slow evolution by limiting competition even to the point of ring fencing a component making it difficult for others to evolve it further.
+
+   Fear, uncertainty and doubt
+
+   Often used to slow evolution by exploiting inertia to change within customers and forcing new entrants to divert energy away from the components and into countering the accusations.
+
+   Exploiting constraint
+
+   An existing constraint can be exploited to fragment a single player by increasing demand beyond their ability to supply (e.g. by creating a price war).
+
+   Sweat and Dump
+
+   A mechanism of disposing of legacy liability onto a third party by exploiting their own inertia to change.
+
+   Pig in a poke
+
+   A mechanism of dressing up a liability as some form of future business before divesting to a third party.
+
+   Two factor markets
+
+   A mechanism of bringing providers and consumers together and exploiting network effects and aggregated data.
+   Sensing Engines (ILC)
+
+   A mechanism of being the first mover to industrialise a component, allowing others (the ecosystem) to build new industries upon it and then using consumption data to determine future candidates for industrialisation.
+
+   As with climatic patterns and doctrine, then the more you play the game then the more context specific patterns you will discover. With your understanding of the landscape, an ability to anticipate change based upon climatic patterns and a knowledge of context specific play that you can use to manipulate the map then you should be able to determine where you could attack and how you can use gameplay to increase your odds of success. At the very least, you should be able to create a common understanding of where you’re going and why you’re taking certain approaches within the company — see figure 160.
+See    Figure 160: Applying gameplay
+ for more details.
+   You then decide to act. You loop around the cycle and repeat this whole exercise. Don’t hesitate with action, make your plans and roll the dice. It’s worth remembering that one of your actions maybe to change direction of the company itself, to alter your very purpose. You might start of as a paper mill but you might become a telecommunications company. Get used to it, there is no “core” to a company beyond short term immediate focus.
+

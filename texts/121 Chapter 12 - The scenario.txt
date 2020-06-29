@@ -1,0 +1,6 @@
+Chapter 12 - The scenario
+
+   You are a member of the executive board of a huge conglomerate focused on facilities management. You’re attending a meeting of a wholly owned subsidiary company with their executives. You’re on a fact finding mission, trying to determine what the future of this subsidiary is.
+
+   There has been some recent positive noise about the subsidiary from analysts and also some interest by third parties in potential acquisition. This company offers a single product which is a software system that monitors a data centre’s consumption of power in order to determine whether it is being used effectively. The product is known as Phoenix.
+

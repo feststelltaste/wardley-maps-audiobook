@@ -1,0 +1,21 @@
+Chapter 11 - Section 2.1.: FIRE
+
+   One case worthy of praise in business, is the truly marvellous work of Lieutenant Colonel Dan Ward. If you’ve never read FIRE or the Simplicity Cycle then stop what you’re doing (i.e. reading this) and go read them. I first came across FIRE (fast, inexpensive, restrained and elegant) when it was called FIST (fast, inexpensive, simple and tiny) and was used in military circles. The rename is more about a reboot to make it applicable to the wider marketplace. I happen to prefer the old term (probably my own inertia for having used it) because it’s just a bit more punchy.
+
+   Fast means build things quickly i.e. short time scales. It’s a constraint on time and reduces the risks of change which comes with long schedules. Inexpensive is more than a constraint on budget, it’s a mindset of thrift and re-use. Simple is a constraint on complexity but also a mindset for the pleasing elegance of simplicity. It’s less about adding on more but taking stuff away. Whereas the A10 Warthog is an example of elegant simplicity in ground attack aircraft, the F35 is the polar opposite. Tiny means small, as in constrained or restrained as in small budgets, short schedules, small documents, small teams and small components. It’s again about mindset, a love of the detail and of self control. It’s about saying “Do we really want to add short take off and vertical landing to our bombing run, ground attack, air-to-air combat and reconnaissance aircraft?”
+
+   Fast + Inexpensive + Restrained + Elegant = FIRE
+
+   Taking these FIRE principles, I’ve applied them to our map of a communication platform form above which I’ve broken down into small discrete areas avoiding any broad systems i.e. no mixing of industrialised with the uncharted. Each of these areas should be managed using small budgets, short schedules — see figure 138.
+See    Figure 138: FIRE
+ for more details.
+   With such a map we can now apply the use of appropriate methods and techniques. For the more industrialised components we can look to re-use market standards or outsourcing arrangements under detailed specification or even utility providers such as cloud services. For the more novel we can build in-house or have contracts based upon time and material basis (see figure 139).
+See    Figure 139: Using standard components and appropriate methods
+ for more details.
+   It’s worth noting that with novel items then you will tend to try and build these in-house. There are alternatives. You could outsource them under a time and material basis to a group that specialises in the experimentation required but this is a different type of arrangement from outsourcing under a specification or volume operations. You might even outsource the novel to the market i.e. just let the market get on with discovering what is there and take a back seat until the component becomes more evolved. Procrastination can be a useful tool if consciously used as such and with a good understanding of the landscape.
+
+   We can also use the map to organise ourselves with small teams, distributing power away from some central planning office and giving autonomy and control to those on the “ground”, at the “coal face” who can make decisions more quickly, with a greater understanding of detail (see figure 140).
+See    Figure 140: Distribute power
+ for more details.
+   Using appropriate methods, tighter control on schedules and budgets with empowered people — what’s not to like? Actually, there’s often huge resistance to this.
+

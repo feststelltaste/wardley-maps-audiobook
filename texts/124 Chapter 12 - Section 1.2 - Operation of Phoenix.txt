@@ -1,0 +1,10 @@
+Chapter 12 - Section 1.2.: Operation of Phoenix
+
+   The setup on a client site requires:     * installation of the sensor
+     * setting up a highly redundant server which contains the software package
+     * installing agents on each machine in the data centre to provide performance information to the analytics tool over the network
+     * describing the initial layout of the data centre to the analytics tool
+     * allowing the system to run for several days to collect data
+
+   The system contains a learning AI which over time develops recommendations for improving the efficiency of power use from air conditioning, air flow, positioning of equipment, type of equipment and modes of operation. It has been shown to consistently reduce 10% of energy consumption within client sites with constant active monitoring. The process of setting up a new client involves a two day installation of equipment and software on premise. The service is charged for on an initial hardware and setup cost followed by a two year renewable software license. You note that the group is clearly proud of its accomplishments, the technological marvel they have created and their ability to deliver against their vision. Next up to speak is the head of marketing.
+

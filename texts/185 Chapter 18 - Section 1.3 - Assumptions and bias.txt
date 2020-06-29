@@ -1,0 +1,49 @@
+Chapter 18 - Section 1.3.: Assumptions and bias
+
+   Assumption is a very dangerous activity and one which has constantly caught me out. In the past I had assumed everyone knew how to map but the real question is why did I think this? The answer in this case is a bias known as the false consensus bias. I tend to assume that if I know something then everyone else must know it as well. It’s the reason why it took me six years to discover that others weren’t mapping. It was also behind my assumptions in the “Better for Less” paper.
+
+   When it comes to bias with maps then there are two main types you need to consider. The first is evolutionary bias and our tendency to treat something in the wrong way e.g. to custom build that which is a commodity. By comparing multiple maps then you can help reduce this affect. The second broad and powerful group of biases are cognitive biases. Maps can help here but only through the action of allowing others to challenge your map. The most common and dangerous types of cognitive biases I have faced (and my description of these as “most common and dangerous” is another bias) are: 
+   Confirmation bias
+
+   A tendency to accept or interpret information in a manner that confirms existing preconceptions. For example, a group latching onto information that supports their use of some process being different from industry and hence justifying the way they’ve built it.
+
+   Loss aversion bias
+
+   The value of losing an object exceeds the value of acquiring it e.g. the sunk cost effect. Examples heard include “had we not invested this money we wouldn’t use this asset to do this”. Often a significant root cause of inertia.
+
+   Outcome bias
+
+   A tendency to look at the actual outcome and not the process by which the choice was made. Commonly appears in meme copying other companies when little to no situational awareness exists e.g. “we should be like Amazon”.
+
+   Hindsight bias
+
+   A tendency to see past events as being more predictable than they were. An example would be describing the evolution of compute from mainframe to client / server to cloud as some form of ordained path. The problem is that the “apparent” path taken at a high level depends upon how evolved the underlying components were (e.g. storage, processing, network). If processing and storage were vastly more expensive than network then we would tend toward centralization. Whereas if network was more expensive then we would tend towards decentralization.
+
+   Cascade bias
+
+   A belief that gains more plausibility through its repetition in public circles e.g. many of the false myths of cloud such as Amazon’s “selling of spare capacity”.
+
+   Instrumentation bias
+
+   The issue of familiarity and a reliance on known tools or approaches to the exclusion of other methods. Summarised by the line “If all you have is a hammer, everything looks like a nail.”
+
+   Disposition bias
+
+   A desire not to lose value i.e. selling of assets that have accumulated value but resist selling assets that have declined in the hope that they will recover. This is another common source of inertia through the belief that an existing line of business or asset acquired that is performing poorly will recover.
+
+   Dunning–Kruger effect
+
+   Tendency for the inexperienced to overestimate their skill and the experienced to underestimate.
+
+   Courtesy bias
+
+   A tendency for individuals to avoid giving their true opinion to avoid causing offence to others e.g. to not forcibly challenge why we are doing something especially when it is considered a “pet project” of another.
+
+   Ambiguity bias
+
+   A tendency to avoid uncertainty where possible and / or to attempt to define uncertainty e.g. to specify the unknown.
+
+   Survivorship bias
+
+   Only examining the data which achieves some end state rather than that which doesn’t. At the heart of mapping is a survivorship bias. The evolution curve (described in xref:#chapter-7-finding-a-new-purpose[chapter 7]) that is used as the basis of the x-axis of a map was built from data for components that had survived to become a commodity. It shows a path of “If a component evolves to a commodity then it will traverse through these stages”. But what about the components that didn’t survive? Unfortunately I was not able to distinguish another pattern to explain them other than to say they followed the path of evolution and died in one of the stages. Most visibly (because we can get access to data), components die in the custom built stage and I can only assume (because it’s nigh on impossible to get data) that the most common stage of death is genesis where there exists the highest degree of uncertainty. Of course, assumption is a dangerous thing.
+

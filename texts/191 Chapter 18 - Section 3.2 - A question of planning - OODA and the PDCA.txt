@@ -1,0 +1,13 @@
+Chapter 18 - Section 3.2.: A question of planning — OODA and the PDCA
+
+   The idea that we should plan around a forecast and the importance of accuracy in the forecast is rooted in Western philosophy. The act of planning is useful in helping us understand the space, there are many predictable patterns we can also apply but there is a lot of uncertainty and unknowns including individual actors’ actions. Hence when it comes to planning we should consider many scenarios and a broad range of possibilities. As Deng Xiaoping stated, managing the economy is like crossing the river by feeling the stones. We have a purpose and direction but adapt along the path. This is at the heart of the strategy cycle — Observe the environment, Orient around it, Decide your path and Act — and it is known as OODA.
+
+   At this point, someone normally mentions Deming’s PDCA cycle — plan, do, check and act. To understand the difference, we need to consider the OODA loop a little more. The full OODA loop by John Boyd is provided in figure 241
+See    Figure 241: OODA
+ for more details.
+   There are several components that I’d like to draw your attention to in the orient part of the loop. Our ability to orient (or orientate, which is an alternative English version of the word) depends upon our previous experience, cultural heritage and genetic disposition to the events in question. In terms of an organisation, its genetic disposition is akin to the doctrine and practices it has.
+
+   Now, if an event is unknown and we’re in the uncharted space of the map then there is nothing we can really plan for. Our only option is to try something and see what happens. This is the world of JDI or just do it. It is a leap into the unknown and an approach of do and then check what happened is required. However, as we understand more about the space, our previous experience and practices grow in this area. So, whilst our first pass through the OODA loop means we just do and check, further loops allow us to start to plan, then do, check the result and act to update our practices. This is PDCA. As our experience, practices and even measurements grow then our decision process itself refines. We can concretely define the event, we can provide expected measurements, we can analyze against this and look to improve what is being done and then control the improvements to make sure they’re sustainable. This is DMAIC. The OODA loop can result in very different behaviours from just trying
+   something out to DMAIC depending up how much experience and heritage exist with what is being managed i.e. how evolved it is and how familiar and certain we are with it. I’ve summarised this in figure 242.
+See    Figure 242: JDI to PDCA to DMAIC
+ for more details.

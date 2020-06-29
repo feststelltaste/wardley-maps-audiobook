@@ -1,0 +1,9 @@
+Chapter 11 - Section 1.: Opportunity of change
+
+   Activities, practices, data and knowledge all evolve and co-evolve in a process which is not always smooth or continuous. In chapter 10, we covered the peace, war and wonder cycle and how previous giants in a peaceful product phase of competition can be overtaken by new entrants in the “war”. Those new entrants are likely to settle down to become the titans of that industry. The most interesting aspect of this cycle is in the change (point 1 in figure 133) between the two states of peace and war and it’s here we will focus.
+
+   Whilst the act (e.g. computing) may be well understood, this transition (e.g. computing shifting from products such as servers to utility services such as cloud) causes a great deal of confusion because the nature of the act is changing — we’re moving from a world of constant feature differentiation to a world of volume operations of good enough. This change is compounded by co-evolved practices (such as DevOps), our inertia to it, the surprising speed at which it occurs and vested interests usually spreading all manner of fear, uncertainty and doubt.
+See    Figure 133: A time of change
+ for more details.
+   Behind the confusion, what is fundamentally occurring is the rise of new standards, the de facto optimisation of a market and a shift towards commodity. This doesn’t mean that alternatives aren’t available, we often have a battle over standards e.g. AC vs DC in the “electricity wars” or VHS vs Betamax for video recording standards. It’s however marketplace adoption and network effects that will choose the winner and consign others to the niche of history. It’s important to understand that in the early stages then everything is up for grabs.
+

@@ -1,0 +1,28 @@
+Chapter 13 - Section 2.: Examining the strategy
+
+   With our map in hand, let us now look at the strategy of the company. I’ve marked on each point which relates to the strategy in figure 177 and we will go through each in turn.
+See    Figure 177: The strategy
+ for more details.
+   Point 1 : Creation of a digital “cloud based” service for provision of the software. By the time our cloud service hits the market in 2020, we’re likely to be a minnow against a giant with a well developed ecosystem model. If they’re running an ILC model which seems possible then they will be out innovating us, more efficient, more customer focused and larger. They will be far ahead of us and our cloud effort doesn’t even mention building an API or running any form of ecosystem game. To cap it all off, we’re even bringing an old licensing model with us and a system logic that is likely to become legacy and replaced by co-evolved practice. In terms of getting it wrong, this is a fabulous way of wasting £45 million.
+
+   Point 2 : Investigating the use of the data conversion product that is available in order to improve efficiencies and reduce cost. A fairly sensible proposal on cost efficiency but not one that should be high up the priority list in such a battle.
+
+   Point 3 : Expansion of existing product into overseas markets such as Brazil. It might create some short term gain but this is also a dangerous path. Our business model in a more mature market is going to be chewed up but rather than face this, we’re going to take our model and attempt to re-apply it to a less mature or emerging market. All that will happen is our competitor will chew up both markets and we are simply spending money laying the groundwork for them to attack the emerging market. It would probably be more favourable to our shareholders to give half the money to the competitor for marketing in Brazil and return half the money to the shareholders than to build up future liability. This isn’t as bad as the cloud effort but this will increase inertia to change due to the belief that the short term gain translates to our past model still being successful.
+
+   Point 4 : Increasing the development effort on our existing product line including more advanced reporting and other innovative features. There is always value in focusing on user needs but in this case we’re not addressing the problem of our competitor but patching over it in the very short term. Unfortunately for us, if the competitor is using an ILC model then we are in competition with the entire ecosystem that has built upon the competitor’s API. If for example that includes 200 software companies then our poor product development team is going up against the might of 200 software teams. This situation only gets worse as the ecosystem grows. This is a path of spending money and still losing by ever increasing margins.
+
+   Point 5 : Undertake a significant marketing campaign to promote our solution in the existing market. It doesn’t fix any of the problems but at least it might gives us a short term revenue boost.
+
+   Point 6 : Keep an eye on the sensors from China. Though not explicitly stated or highlighted as a strategy, it’s worth calling out that the approach is to keep a watchful eye on the sensors. Given the fairly predictable impact these will have, this is less than encouraging.
+
+   If you want to mess up strategy then the CEO has done a glorious job. Fortunately there’s also some opportunities to be considered. Firstly, the market in Brazil is an opportunity but re-using our old business model might not be the wisest idea.
+
+   Secondly, there was an interest in acquisition of this company. Just because you know it’s a future train wreck, this doesn’t mean others do (remember most don’t map). As someone who has done a bit of work in M&A then coming face to face with a company hurtling towards a cliff edge whilst there is “positive noise about the subsidiary from analysts and also some interest by third parties in potential acquisition” is surprisingly common and lucrative. You are a board member for the conglomerate and should look to maximise the opportunity.
+
+   Thirdly, the system logic is heading towards legacy and we will have our own DevOps moment with an emerging practice. Fortunately, we’re not the only ones facing this as the US company has the same problem. Maybe they’re not as smart as we think? Maybe they’re working on a solution? We don’t know but this is a potential weakness.
+
+   Lastly, there’s a final opportunity in the data set. Yes, a product is now available but that doesn’t mean we can’t try and out commoditise this and turn data into some form of utility with an open data play (point 1, figure 178).
+See    Figure 178: Turning data into a utility
+ for more details.
+   The strategy outlined by the subsidiary needs some serious work on it. However, before jumping the gun let us take a look at the company again. The strategy might be bad but the question is whether the company is recoverable in the time frame?
+

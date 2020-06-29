@@ -1,0 +1,10 @@
+Chapter 12 - Section 4.1.: Cloud Service
+
+   This will be one of the most significant investments taken in the history of the company, starting in 2018 and intended for launch near the end of 2020 with £45 million invested. The service will be provided on a license basis in order not to create conflict with the existing model and is considered to be a counter for any future threat from the US competitor as well as necessity for a modern technology company. It is expected that by 2023 (three years after launch), the cloud service will contribute almost £50M p.a. and account for over 10% of the company’s revenue, see figure 162.
+See    Figure 162: Cloud Service revenue
+ for more details.
+   The Phoenix cloud service will provide cross company reporting and advanced analytics. These capabilities will also be included in the on premise service and the company will promote this hybrid model of public or private alternatives. The public service will run on a major cloud provider, using emerging DevOps practices. The core algorithms and logic of Phoenix will be maintained but adapted to this new world. The business model was then explored including a business model canvas (figure 163) outlining the new service.
+See    Figure 163: Business Model Canvas
+ for more details.
+   Business Model Canvas framework from Strategyzer
+

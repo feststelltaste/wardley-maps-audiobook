@@ -1,0 +1,9 @@
+Chapter 15 - Section 5.6.: Engineering
+
+   Development has also provided a map of the space which covers both the “in-house” and “public” variants. The difference is simply explained as a shift from a more product style of platform (requiring us to build, maintain and operate our own product stack) to a more utility environment. One significant change with this shift is function based billing through which greater transparency, clarity and variability on IT expenditure can be achieved.
+
+   These environments are relatively new but development believe that building skills in this “serverless” space (the common term used in the market for public code execution platforms despite the obvious existence of servers under the hood) is essential for future competitiveness. The map is provided in figure 197 with point 1 being the in-house solution and point 2 being the public platform solution. The CFO has marked on various metrics used in the above models.
+See    Figure 197: A map of the landscape
+ for more details.
+   Systems and security both have concerns. Whilst security is concerned over the lack of experience in this space, it also recognises a necessity to develop appropriate skills. Systems highlights that it has ample skills in developing such environments and it can build the environment more effectively than a generalised public provider. There’s a bit of derision about the “serverless” term. The head of systems also says that by embarking on a route of using an untested public service for such a visible and important project then we’re sending a worrying message to the systems team.
+

@@ -1,0 +1,35 @@
+Chapter 18 - Section 2.: Applying doctrine
+
+   So far in this chapter, I’ve covered various aspects of doctrine and the issues of bias and assumption. There is a reason to my madness. One of the most common questions I’m asked is which bits of doctrine should we apply first? The answer to this is, I don’t know.
+
+   Based upon my experience, I do believe (and that may be bias) that there is an order to doctrine. For example, before you can apply a pioneer — settler — town planner structure (i.e. design for constant evolution) then you need to first implement other forms of doctrine. A rough order is:     1. Start by understanding your user needs (i.e. focus on user needs).
+    2. Improve your understanding of the detail by describing the value chain needed to support your user needs (i.e. know the details).
+    3. Increase your situational awareness by creating a map of the environment. This is achieved by taking your value chain and adding in evolution to visualise how things change (i.e. focus on situational awareness).
+    4. Use your map to apply appropriate methods, to constrain the system into small contracts and to remove bias and duplication.
+    5. Convert the small contracts into a cell-based structure with autonomous teams (i.e. think small teams)
+    6. Apply appropriate attitudes to the teams, such as pioneer, settler and town planner, and introduce a system of theft to enable a system that copes with constant change (i.e. think aptitude and attitude).
+
+   Though we can deduce an order for some of the principles within doctrine, beyond broad strokes then I don’t know what bits of doctrine matter more i.e. is transparency more important than setting exceptional standards?
+
+   Alas, it will probably take me many decades to sort through this and obviously due to co-evolution effects then new practices and new forms of organisation will appear during that time. Hence doctrine is itself changing over time. This is one of those painting the Forth bridge situations which by the time I’ve finally sorted out an order, it has changed. However, I can take a guess on the order of importance based upon experience. I’ve split doctrine into a set of discrete phases which you should consider but at the same time, I want you to remember that I will be suffering from my own biases. So, take it with a big pinch of salt and don’t feel concerned about deviating from this. It is only a guide. My phases of doctrine are provided in figure 236.
+See    Figure 236: Phases of Doctrine
+ for more details.
+   The phases are: 
+   Phase I — Stop self-harm.
+
+   The focus in this first phase is simply awareness and removal of duplication. What I’m aiming for is not to radically change the environment but to stop further damage being caused. Hence the emphasis is on understanding your user needs, improving situational awareness, removing duplication, challenging assumptions, getting to understand the details of what is done and introducing a systematic mechanism of learning — such as the use of maps with a group such as spend control.
+
+   Phase II — Becoming more context aware
+
+   Whilst phase I is about stopping the rot, phase II builds upon this by helping us to start considering and using the context. Hence the emphasis is on using appropriate tools and methods, thinking about FIRE, managing inertia, having a bias towards action, moving quickly, being transparent about what we do, distributing power and understanding that strategy is an iterative process.
+
+   Phase III — Better for less
+
+   I name this section “Better for Less” because in hindsight (and yes, this is likely to be a bias) there were some fundamental lessons I missed (due to my own false-consensus bias) in the original paper. Those lessons are now mostly covered in phase I & II. In this phase, we’re focusing on constant improvement which means optimising flows in the system, seeking the best, a bias towards the new, thinking big, inspiring others, committing to the path, accepting uncertainty, taking responsibility and providing purpose, master & autonomy. This is the phase which is most about change and moving in a better direction whereas the previous phases are about housekeeping.
+
+   Phase IV — Continuously evolving
+
+   The final phase is focused on creating an environment that copes with constant shocks and changes. This is the point where strategic play comes to the fore and where we design with pioneers, settlers and town planners. The emphasis is on constant evolution, use of multiple cultures, listening to outside ecosystems, understanding that everything is transient and exploiting the landscape.
+
+   Are the phases, right? Almost certainly not and they are are probably missing a significant amount of undiscovered doctrine. However, they are the best guess I can provide you with. There are two other parts of doctrine which I’ve glossed over. Both are worth highlighting. One is managing failure, the other is being humble
+

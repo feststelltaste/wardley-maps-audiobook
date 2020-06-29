@@ -1,0 +1,11 @@
+Chapter 8 - Section 1.: The danger of making it simple
+
+   One of the obstacles with mapping was that some people found it complex. This is not really unsurprising because you’re exposing people to a world that the majority are unfamiliar with. Few in business have practical experience with situational awareness or the use of maps. Many don’t understand why it might be important. It also takes time and effort to become comfortable with creating a map. A common response tends to be “can you create the map for us” based upon an idea that they will then apply their general like strategy to it. This always degenerates into “can you show us what moves we can make” to which they’ll apply their general like intellect to. In the end if becomes “which move should we make” and then general like nodding of their approval.
+
+   However, confusion over cloud computing had created an opportunity for a new way of thinking and hopefully learning. Alas piling on the complexity of mapping onto a bewildered person who has no connection to situational awareness can cause more confusion. Most people just wanted answers they could agree to such as how to solve their need of being in the cloud without rocking the boat too much. I’m guessing that’s why there has been an awful lot of questionable efforts in private cloud.
+
+   Hence I looked for ways to simplify mapping, to make it more palatable and more familiar. I started with spot painting. I’d take a business process diagram or a box and wire for an existing system, such as our Elvish self driving car in [109]figure 36 ([110]chapter 4) and then colour different parts according to whether they were more genesis or commodity. I’d produce something like figure 83.
+See    Figure 83: “Spot” painting of an Elvish self driving car
+ for more details.
+   Such annotated diagrams along with being colourful were more familiar and less threatening to the people who had written the originals. They enabled me to fairly easily introduce the concepts of evolution into an organisation and hence we could have a discussion about what methods to use. But without position and movement then these diagrams were unhelpful for effective challenge and continuous learning of economic patterns or forms of gameplay. There was a trade-off between simplicity and usefulness.
+

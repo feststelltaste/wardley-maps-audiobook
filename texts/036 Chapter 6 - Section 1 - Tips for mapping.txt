@@ -1,0 +1,33 @@
+Chapter 6 - Section 1.: Tips for mapping
+
+   There are a couple of general tips, common terms and diagrammatic forms that I apply to mapping itself. My tips include: 
+   All models are wrong; some are merely useful.
+
+   Mapping is not the answer, it’s simply a guide. Hence don’t try to create the perfect map, the key is to produce good enough that you can collaborate around and this requires you to share and open yourself up to challenge. Also, you’ll likely to use other tools alongside mapping when scenario planning and examining the viability of different points of attack. This can include financial models to my current favourite of business model canvas.
+
+   Where before why
+
+   When thinking about strategy, the first thing you need to do is identify where*you can attack before *why here over there. It’ all about position (y-axis) and movement (x-axis).
+
+   Iterative and continuous learning
+
+   The entire strategy cycle is iterative and you’re going to have to follow the same path. Which means mapping is not going to be a one off exercise but something that happens all the time. Again the temptation is to map the entire landscape in some sort of “Deathstar” — large scale, all encompassing, doomed to fail — effort in order to create that perfect answer. You should instead embrace the uncertainty, think small and start somewhere (have a bias towards action). If you’re using mapping and it’s either taking a long time or doesn’t seem to help answer any of your questions, then stop. Don’t be afraid to find a better way of doing this. No model is perfect.
+
+   Learn yourself
+
+   If you are responsible for strategy, then you need to learn to play the game yourself and take responsibility for it. I often give strategy consultants a hard time but this doesn’t mean they don’t have a use. Don’t however rely on third parties to give you an answer, instead use them to help you challenge your strategy and to learn new forms of gameplay.
+
+   Terms
+
+   There are numerous terms associated with mapping. I’m often guilty of using them without clearly explaining to others, so in order to rectify this I’ve provided the most common in figure 60.
+See    Figure 60: Terms
+ for more details.
+   Symbols
+
+   Maps are obviously visual and whilst they are far from the ordinance survey maps of geography, it’s useful to have a common lexicon of symbols. In figure 61, I’ve provided the ones I use.
+See    Figure : 61Symbols
+ for more details.
+   A nod to early terms
+
+   Mapping itself has evolved over time hence the terms I used in the past are slightly different to the terms I use today. These cosmetic changes are purely to help refine the craft, the underlying meaning has remained constant.
+

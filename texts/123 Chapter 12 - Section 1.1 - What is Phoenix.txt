@@ -1,0 +1,6 @@
+Chapter 12 - Section 1.1.: What is Phoenix
+
+   The system involves a proprietary software package which performs analytics across data gathered from a sensor that is installed within a customer’s data centre. The sensor is a highly expensive piece of kit that is manufactured by third parties. The sensor monitors both the electricity input, the temperature and airflow within the building.
+
+   The analytics software is based upon a decade of best practice experience for the use of these sensors. The algorithms contained within the software package are considered to be the essential core IP of the subsidiary and they differentiate this product from everything else on the market. These algorithms are a carefully guarded secret. The software package also consumes a set of environmental data (which is provided by the company) that contains performance information on common hardware.
+

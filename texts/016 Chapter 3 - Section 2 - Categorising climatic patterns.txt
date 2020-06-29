@@ -1,0 +1,13 @@
+Chapter 3 - Section 2.: Categorising climatic patterns
+
+   We’ve now covered in a very superficial way some basic climatic patterns. As we journey through this book we will iterate around the strategy cycle and revisit them, refining as we go along and adding new patterns. It’s worth knowing that there are many economic patterns but I wanted to provide enough for now that we could start to explore our first map.
+
+   In figure 27, I’ve provided a list of the common economic patterns that we will cover in this book. Those marked in orange, we’ve just skimmed over. I’ve also categorised these patterns into whether they mainly influence :     * how we deal with components
+     * financial aspects of the company
+     * the speed of change
+     * resistance to change (inertia)
+     * the impact of competitors
+     * our ability to predict
+
+See    Figure 27: Climatic patterns
+ for more details.

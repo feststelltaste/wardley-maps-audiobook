@@ -1,0 +1,11 @@
+Chapter 12 - Section 5.: Strategy
+
+   The head of strategy now discusses the future direction for the company. In a recent meeting, a number of directions were discussed with the entire executive team. These focused on the strengths of the company, the weaknesses in the existing product line, the potential opportunities in emerging markets and future threats such as the US player. Though the discussions have been “challenging”, the team developed a key number of actions that were considered to be urgent for the company. These were distilled into a new vision document called “Growth and sustainability for Phoenix”. These options were then investigated with the wider company management team through a collaborative effort, to create a priority list (see figure 164) which was then agreed with CEO to provide a final direction.
+See    Figure 164: Management priority order
+ for more details.
+   The focus and the priorities of the company are :    1. Creation of a digital “cloud based” service for provision of the software.
+    2. Investigating the use of the data conversion product that is available in order to improve efficiencies and reduce cost.
+    3. Expansion of existing product into overseas markets such as Brazil.
+    4. Increasing the development effort on our existing product line including more advanced reporting and other innovative features.
+    5. Undertake a significant marketing campaign to promote our solution in the existing market.
+

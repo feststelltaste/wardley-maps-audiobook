@@ -1,0 +1,12 @@
+Chapter 8 - Section 3.2.: Pricing granularity
+
+   With a worth based approach then I have a strong incentive to:      * reduce the operational cost of the project because the cheaper it is then the more profit I make.
+     * provide reliability because if the system went down, I wasn’t making any money.
+     * ensure the system maximises the value metric. In the case of LFP then this metric was “generating leads”.
+
+   But I also had questions on where to invest. In the case of LFP, it was doing very well (this was prior to the budget shenanigans) and so I decided to look at investing an additional $100K. But where do I best put the money? Improving the site reliability? Reducing the operational cost of the application through better code? Maximising the number of users through marketing? Improving conversion of users to leads? Which choice brings me the better return? This is a particularly tough question to answer if you can’t effectively determine operational cost of an application beyond hand waving or if other data is also guessed at.
+
+   One of the huge benefits of Zimki (our platform as a service play in 2006) was not only its serverless nature and how you could simply write code through an online IDE but also its pricing granularity was down to the function. This was no accident as I had a genuine need to know this. Any application is nothing more than a high level function that calls other functions. If I developed a function in Zimki, whenever that function was called then I could see exactly how much it had cost me. I was charged on the network, storage and compute resources used by that function. This was quite a revelation. It changed behaviour significantly because suddenly in the sea of code that is my application, I could find individual functions that disproportionately cost me more.
+
+   As far as I know this pricing per function was unparalleled in the world of IT in 2006 and we didn’t see an equivalent pricing granularity until AWS Lambda was launched in 2014. Now, obviously I was also the provider of Zimki and behind the scenes there was a complex array of basket of goods concepts and all manner of financial instruments to be able to provide those cost figures. But this was abstracted from the developer. All they saw was a cost every time their function ran no matter how much it scaled. There was no capital investment and this turned the operational cost of an application into a manageable variable.
+

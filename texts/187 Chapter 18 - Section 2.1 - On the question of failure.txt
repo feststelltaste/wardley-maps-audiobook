@@ -1,0 +1,7 @@
+Chapter 18 - Section 2.1.: On the question of failure
+
+   When it comes to managing failure then life is a master. To categorise failure I tend to use CS Hollings’ concepts of engineering versus ecosystem resilience — see figure 237
+See    Figure 237: Types of Failure
+ for more details.
+   Engineering resilience is focused on maintaining the efficiency of a function. Ecological resilience is focused on maintaining the existence of the function. In terms of sustainability then the goal of any organisation should be to become resilient. This requires a structure that can adapt to constant evolution along with many supporting ecosystems. Unfortunately, most larger organisations tend to be in the robust category, constantly designing processes to cope with known failure modes and trying to maintain the efficiency of any capital function when shock occurs i.e. constantly trying to maintain profitability and return to shareholders. Whilst efficient, the lack of diversity in terms of culture & thought means these organisations tend to be ill prepared for environments that rapidly changes outside of its “comfort zone”.
+

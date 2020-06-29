@@ -1,0 +1,4 @@
+Chapter 3 - Section 4.: An exercise for the reader
+
+   In [32]chapter 2 I asked you to have a go at mapping something. Well, take that map, look at the common climatic patterns described in figure 27 and have a go at applying them to your map. See what you can anticipate. It helps to get others involved as mapping is fundamentally a communication and learning tool and the best results come from collaborating with others. If you’re mapping an aspect of your company then try and find someone with a different skill-set to yourself i.e. if you’re in finance, go grab someone from IT or operations or marketing.
+

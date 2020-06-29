@@ -1,0 +1,32 @@
+Chapter 10 - Section 5.: Some final thoughts
+
+   We’ve covered a lot in this section from refinement of the peace, war and wonder cycle to the introduction of different climatic patterns, to the manner in which organisations evolve and the different forms of disruption. There are a couple of things I want to call out in particular.
+
+   Do the states of peace, war and wonder really exist?
+
+   No, it’s just a model and all models are wrong. The model appears to predict secondary effects such as organisational change, it is developed from first principles of competition and there seems to be historical precedent. However, it’s no more than appearance at the moment until such time as I can confirm future points of industrialisation and even then I still have the question of whether that was just luck.
+
+   Do the states just effect individual activities in industries or could they have a wider effect?
+
+   The cycle’s effect depends upon how connected the components are. If they’re involved in many value chains then this can have a pronounced macro economic effect. When considering economic systems we have to look at them as we do with biological systems and consider how an ecosystem reacts to a change and how competition will drive that change throughout the system.
+
+   Can we anticipate organisational change?
+
+   We know roughly when such changes should occur (from weak signals) though we cannot detail what the impact will be, as in whether new doctrine will appear or what doctrine will refine? Population dynamics on companies is a non trivial exercise due to inherent bias in questions and responses. However, we can at least say something reasonable about the process of change and its likelihood.
+
+   Is life getting faster?
+
+   Certainly the evolution of acts appears to have accelerated but don’t confuse that with a higher rate of innovation. It’s highly questionable whether we have become more innovative as a species though we certainly can’t rely on novel things to create a differential for long. Furthermore be careful to avoid confusing multiple and coincidental points of industrialisation with a general change of speed.
+
+   There are also a number of climatic patterns which I’ve mentioned that are worth noting.
+     * Evolution of a communication mechanism can increase the speed of evolution overall. Not only can evolution not be measured over time but the speed of evolution is not constant over time.
+     * Inertia increases with past success. Be careful with inertia, it will grow and tempt to you away from change even when you must.
+     * Inertia kills. It’s rarely lack of innovation that gets you but past success.
+     * Change is not always linear. Not all change is smooth and progressive, some is very rapid and be wary of being caught out by a slow moving past.
+     * Shifts from product to utility tend to exhibit a punctuated equilibrium. Probably one of the most dangerous times or the biggest opportunity depending upon whether you’re an incumbent or new entrant.
+     * There are many different forms of disruption (two broad classes are predictable vs non predictable). Don’t get caught into the trap of thinking that all disruption is the same.
+     * A point of “war” is associated with organisational change. It’s not just things that evolve but entire organisations.
+
+   I’ve marked off all the patterns we’ve covered so far in orange in figure 132
+See    Figure 132: Climatic patterns
+ for more details.

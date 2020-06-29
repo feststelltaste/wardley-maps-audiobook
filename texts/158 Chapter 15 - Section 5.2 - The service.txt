@@ -1,0 +1,9 @@
+Chapter 15 - Section 5.2.: The service
+
+   The service should be designed to help sell large format printers (LFP), one of their main products. Each LFP sells for in excess of $2,000. The service must consist of:      * a microsite for potential customers interested in finding out more about large format printers. The site should provide a link to an online testing application.
+     * an online testing application for potential customers to upload an image and have printed on the LFP of their choice. The visitors to the testing application can either be direct (i.e. through marketing) or indirect (i.e. via the microsite).
+     * a back-end system to distribute the printed image to the potential customer including a brochure on the LFP used and a follow on sales call.
+     * each delivered print will be considered a lead.
+
+   Because of past bad experiences, the client has moved towards more value based contracts (known as worth based development). They would like you to invest in, build and operate the service and they will pay you $40 for each customer lead delivered. You will retain ownership of any IP related to the service, though there is a clause for exclusive provision to the client for the length of term of the contract which is one year.
+

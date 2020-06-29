@@ -1,0 +1,4 @@
+Chapter 5 - Section 10.: An exercise for the reader
+
+   Hopefully by now, you may have created a map or two. Using the concepts in this chapter, examine your map and first try to identify where you might attack. Now using the gameplay in figure 59, have a go and try to see where you might use gameplay and whether one route or another stands out. It really does help to work with others on this, fortunately maps provide you with a mechanism to communicate, collaborate and learn.
+

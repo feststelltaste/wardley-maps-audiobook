@@ -1,0 +1,4 @@
+Chapter 8 - Section 6.3.: An exercise for the reader
+
+   I’d like you to take some time and look at figure 93 — doctrine. Go through each of the sections marked in orange, re-read any chapters in this book that you need to and make sure you’re familiar with them. Then ask yourself, does your company have these forms of doctrine? How do you implement them? If not, why not? What is stopping you?
+

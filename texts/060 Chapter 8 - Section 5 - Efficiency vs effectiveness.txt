@@ -1,0 +1,49 @@
+Chapter 8 - Section 5.: Efficiency vs effectiveness
+
+   Having introduced the concepts of worth based development, pricing granularity and flow, let us now get back to our main story.
+
+   So there I was in 2008 with an understanding of the importance of maps and of the flow of capital within them. This helped me explain a question of efficiency versus effectiveness in one of my client’s projects. I was quite proud of this. There is unfortunately a problem.
+
+   Hopefully, you’re discovering that maps can be a quite useful strategic tool. The information they contain can be very sensitive. I’m certainly not going to break the trust of a client by exposing their dirty laundry. This is why many of the maps that I use in this book are slightly distorted and don’t identify the original owner unless I was the one running the show. I don’t mind you knowing all the mistakes and failings that I’ve made but not everyone is like that. If you’re uncomfortable with this and you need the reassurance of being told that “big company X did Y” then you’ll need to find someone else to help you.
+
+   To overcome this issue of confidentiality, the next section covers a hypothetical that blends a story related to a modern company to help tell a past story which I’ve set into a technology context. Yes, maps are part of story telling but as J.R.R Tolkien said on writing the Lord of the Rings, “I wisely started with a map.”
+
+   Our story begins, as many do, with a challenge and unfortunately no maps. The company was expanding and needing to increase its compute resources. It had created a process flow diagram for this (figure 88) which involved a request for more compute to the actions needed to meet that demand.
+See    Figure 88: The process flow
+ for more details.
+   The process however had a bottleneck. Once servers were delivered at “goods in” they needed to be modified before being racked. This was time consuming and sometimes prone to failure. They were focused on improving the efficiency of the process flow as it was important for their future revenue generation. A proposal was on the table to invest in robotics to automate the process of modifying the servers. Whilst the proposal was expensive, the benefits were considerable especially given the significant future revenue that was at risk. A strongly positive ROI had been calculated.
+
+   I want you to consider the above for a moment and decide whether a proposal to invest in improving the efficiency of an inefficient process makes sense particularly when the benefits of the proposal vastly outweigh the costs and your future revenue stream is at risk?
+
+   I had met the company, talked about the concept of evolution and it would be fair to say they had no interest in mapping. I had mentioned the “spot” diagram and we agreed to take a look at the proposal through this lens. I’ve taken those first same steps (see figure 89) and “spotted” the process. Whilst the ordering and goods in process were quite industrialised, the modify part of the process was very custom.
+See    Figure 89: Spot diagram of the process
+ for more details.
+   It’s important to take a break for a minute here and have a good look at the diagram above. Try and see if you notice anything interesting or odd before continuing with this story.
+
+   I’m now going to turn the diagram above into a map and hopefully the problem will become clearer. Let us start from the user need of more compute. This actually has two needs, the ordering of a server and the racking of the server once it has been delivered. Apparently mounting the equipment (i.e. racking, adding power and cabling) needs modifications to be made to the server hence the companies interest in automation with robotics. Both of these chains are connected at the point of the “server” and “goods in”. I’ve drawn this in figure 90 with both flows.
+See    Figure 90: Mapping the proposal
+ for more details.
+   Take another break for a minute here and have a good look at the diagram above. Try and see if you notice anything interesting or odd this time before continuing with this story.
+
+   What is worth noting is the racks were considered custom. On investigation, the company had always used custom built racks and it even had a friendly company that made them for it. This was just part of its corporate corpus, a ghost from a long gone past that still haunted the place. If you asked the company why they were using custom built racks they’d tell you that this is what they’ve always done, it was how they worked and the racks were designed for them. They’d would also tell you that racks was irrelevant to the project at hand which was all about automation.
+
+   However, dig a little bit more and we come to reason why the servers needed modification. It turns out that standard servers are designed to fit standard racks. They didn’t fit the custom built racks that the company had so lovingly built. Hence additional plates needed to be added, holes drilled into the servers — this was the modification that was required. Let us be clear, on the table was a proposal to invest in robotics in order to customise standard servers in order that they fit into custom built racks which the company was buying. Does the proposal still make sense? Is it a good investment? Are there alternatives? Do I hear you shout “use standard racks?”
+
+   Now the question is whether we should just use standard racks? This obviously moves racks towards the commodity (which is where they should be) and the modification part disappears though we still have mounting, cabling and power. It seems a lot better though (see figure 91).
+See    Figure 91: Using standard racks
+ for more details.
+   However, you still have a problem which is the legacy estate. Are you going to migrate all the racks? What about our sunk costs? How are we going to maintain our existing systems? There will be a long list of reasons to counter the proposed change. Before you go “this is daft, we should just change” remember the budget example, the corporate corpus and don’t expect to change a system without some resistance.
+
+   In this case, despite resistance, we should go a step further. Computing was becoming a commodity provided by utility services. We can simplify this whole flow by just adopting utility services for any new work. We don’t need to think about robotic investment or even converting to using standard racks (itself a cost which might be prohibitive). This entire chunk of the value chain should disappear over time along with any additional costs it might be hiding (see figure 92).
+See    Figure 92: Hidden costs and removing parts of the value chain
+ for more details.
+   In this story, we started with a proposal of investment into robotics based upon improving the efficiency of an existing process. It sounded reasonable on the surface but if they had taken that route then they would have invested more in maintaining a highly ineffective process. In all likelihood, it would have exacerbated the problem later because the corporate corpus would have expanded to include this robotic investment. If some future person had said “we should get rid of these custom racks” then the response would be “but we’ve always done this and we’ve invested millions in robotics”.
+
+   I used the “spotted” process flow to get us part of the way i.e. identifying the custom built rack as the problem. However to really understand this space then we needed a map and the flows within it. The “efficient” thing to do might be investing in robotics but the “effective” thing to do was to get rid of this entire part of the value chain. It’s a bit like the utility platform question. I can either invest in making my infrastructure and platform components more efficient by automation or I could just plan to get rid of that entire part of the value chain by using a utility platform. Often the “efficient” thing to do is not the “effective” thing.
+
+   However, a word to the wise. This was 2008 and the idea of getting rid of custom built racks and adopting a move towards using infrastructure from a utility provider was not welcomed. It’s easy in 2016 to say “this is obvious” but that’s because most people now have the benefit of hindsight. In 2008, such ideas were seen as radical and even dangerous. The changes necessary were far from welcomed within the organisation and it was fought every step of the way from executives to the ground floor. Without the courage and conviction of the CEO and a few “rebels”, the company would have happily spent millions on robotics and would be still building custom racks today.
+
+   From experience, you should be careful with both your use of simplification when viewing a landscape and the inertia that exists. You should be very careful of process improvements focused solely on efficiency. You should be extremely careful when dealing with the corporate corpus.
+
+   The company in question was a manufacturing company, the real scenario had nothing to do with computing and yes, they were about to spend many millions making a highly ineffective process more efficient. They didn’t, they are alive and doing well. I also kept the wolves at bay. That’s what I call a “win-win” except obviously for the vendors who lost out.
+

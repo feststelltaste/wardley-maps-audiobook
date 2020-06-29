@@ -1,0 +1,10 @@
+Chapter 18 - Section 4.: An exercise for the reader
+
+   We’ve covered quite a bit in this chapter from fleshing out various concepts around doctrine to the issue of bias to the question of failure and feedback loops to scenario planning. Some of these concepts we have touched upon before in previous chapters but then learning mapping is like the strategy cycle itself — an iterative process. Of course, practice matters.
+
+   First, I’d like you look at your organisation and go through figure 236. Work out which bits of doctrine you use and which bits you’re poor at or don’t exist at all. Using the phases as a guide, come up with a plan of action for improving doctrine.
+
+   Second, I’d like you to take one line of business and using a map push it ten years into the future. Think about what might happen, what feedback loops might appear and what opportunities you could exploit.
+
+   Lastly, since you’ve already compared yourself against doctrine, I’d like you to look at competitors for the line of business that you mapped into the future and examine their doctrine. Don’t limit yourself to existing competitors but think about who could exploit the changing environment and look at them. I want you to think about any bias you might have which will convince you they won’t be a threat. Also, if they did make a move then how resilient is your organisation to change? Do you have a diversity of culture, practice and thought that would enable you to adapt?
+

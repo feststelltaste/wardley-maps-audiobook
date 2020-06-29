@@ -1,0 +1,5 @@
+Chapter 6 - Section 3.: Continuous learning
+
+   This entire book is dedicated to a process of continuous learning, however it’s more important for me to demonstrate how to achieve this (the strategy cycle) rather than the specifics of particular patterns. Once you have the basics, you will learn the patterns for yourself. However, it’s also worth me recapping as we go along this journey. In figure 64, I provided the basic patterns so far examined.
+See    Figure 64: Patterns covered
+ for more details.

@@ -1,0 +1,16 @@
+Chapter 8 - Section 6.2.: Doctrine
+
+     * Focus on the outcome, not the contract. Worth (outcome) based tools can be useful here but be warned, they can also expose flaws in the understanding of value and become stymied by the corporate corpus e.g. a budgeting processes and its inability to cope with variable charging.
+     * Use appropriate tools. When using maps, if I’m looking at financial flows then I’ll often dive into financial modelling when considering multiple investment paths e.g. focus on increasing visitors through marketing or the conversion rate from a microsite. Equally, if I’ve identified multiple “wheres” that I can attack, then I’ll often dive into business model canvas to compare them. Don’t be afraid to use multiple tools. Maps are simply a guide and learning tool.
+     * Optimise flow. Often when you examine flows then you’ll find bottlenecks, inefficiencies and profitless flows. There will be things that you’re doing that you just don’t need to.
+     * Be very careful to consider not only efficiency but effectiveness. Try to avoid investing in making an ineffective process more efficient when you need to be questioning why you’re doing something and uncovering hidden costs. Also, don’t assume that an “obvious” change will be welcomed. Beware the corporate corpus.
+     * When it comes to managing flow then granularity is your friend. Be prepared though, most companies don’t have anywhere near the level of granularity that you’ll need and you may even encounter politics when trying to find out. Think small, as in know the details.
+     * Any map can contain multiple different users and often the needs of those users can be in conflict though you should try to bring them all together.
+
+   We’ve covered quite a bit of doctrine so far, I’ve highlighted this (in orange) in figure 93. Though we’ve skated over several other areas of doctrine, I do want to come back to them later in the book with a more formal examination.
+See    Figure 93: Doctrine
+ for more details.
+   We’ve also mentioned an aspect of gameplay — Trading. Maps are a form of knowledge capital and they tend to have value. Don’t expect people to just share them with you. You’ll need to trade or create your own.
+
+   In the next section we will focus on climate including common economic patterns and anticipation.
+

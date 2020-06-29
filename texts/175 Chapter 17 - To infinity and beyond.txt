@@ -1,0 +1,17 @@
+Chapter 17 - To infinity and beyond
+
+
+   I was working on the use of printed electronics with paper (think of digital interactivity within a normal book) when I got that phone call from a friend about “this spaceman who really wants to meet you”. I was curious, so I went along to meet someone called Mark at Canonical. I didn’t know what to expect. The first few minutes were certainly interesting.
+
+   Shuttleworth : “I’m Mark. I’ve been told you’re a good UX designer.”
+
+   Me : “I don’t know anything about design.”
+
+   … silence.
+
+   It was an awkward pause. Then Mark realising the next hour was probably a waste of his time asked me to tell him something I did know about. I talked about evolution, the changes in the industry and before long we were into graphs, maps and cloud computing. The time flew by. We kept talking. I was introduced to others and in what seemed like lightning speed, I was working at Canonical. I had one job, to bring Ubuntu into the cloud. I called my friend, asked him what had happened. Steve just responded “I knew you’d get along”. Life is full of pleasant trouble makers like Steve.
+
+   The first day I arrived for work, I was all excited and had the usual confused look of a rabbit staring at headlamps. My boss, who also happened to be another Steve, did the usual rounds of introductions. That was an interesting moment. Whilst I delighted in the warmth of the people I met, the first five responses to my role of bringing Ubuntu into the cloud were negative — “it’s a fad”, “why are we doing that” etc. I knew I was going to have to build a cabal pretty quickly and create some momentum. However my first official task was to look at the virtualisation strategy that had been written. It was one of those “oh, what have I done” moments. Fortunately it didn’t take long to find others with common interests — Rick Clark, Soren Hansen, Nick Barcet and many others. Steve George (my boss) was also one of the most supportive people I’ve worked for, a good friend and then there was Mark. Without Mark none of this would have happened.
+
+   The problem to begin with was Canonical was focused on the server and desktop market. It was up against huge giants such as RedHat and Microsoft. It was making valiant, almost heroic efforts but Canonical was small. Many wanted to focus on the server OS, to generate revenue from support licenses and to a few then the Cloud was a distraction. The problem was one of focus and what I needed to do was change the mindset. To explain this issue and why it mattered I’m going to cover a number of concepts from the Three Horizons to Porter before returning back to Canonical.
+

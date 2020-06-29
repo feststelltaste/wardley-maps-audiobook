@@ -1,0 +1,43 @@
+Chapter 11 - Section 3.6.: We’re not blind, we have principles!
+
+   A common counter to this idea that companies were playing blind was that it didn’t matter. If we could find the ideal algorithms, rules or principles then we could create that sustaining organisation. You can think of this as a variation of Conway’s Game of Life but with the conceit that all we need to do is to find the right code and the problem with my simulation is I just had the wrong principles. To challenge this, I’ll use a bit of WoW.
+
+   I’ve often found World of Warcraft (a massive multiplayer online role playing game known as WoW) to be a useful vehicle for explaining and exploring basic concepts of strategy and this is no exception. In this example, I want you to imagine two teams of players — the Horde and the Alliance — preparing to fight for the first time in a battleground called Warsong Gulch.
+
+   Both teams have a short time to prepare before the battle commences. The winner is the team that captures the opponent’s flag three times. Let us assume neither team has been to Warsong Gulch before or has experience of fighting in battlegrounds. Just for reference, when your character is killed in the battleground it resurrects a few moments later in your team’s graveyard. One team (the Alliance) outlines its strategy for how it’s going to win the battle. It consists of what they describe as five principles that they’ve all agreed upon. These are :
+   Focus : Capture the flag and win the game!
+
+   Doctrine :
+     * Do this with great people! We’re going to be the best fighters, wizards and healers.
+     * Be prepared to take risks and fail fast! We’re not going to just play it safe.
+     * A supportive culture! We’re going to help each other when asked.
+     * Open to challenge and asking the hard questions.
+
+   The team is enthusiastic and ready to go. Facing off against them is the team of Horde players. They’ve also spent their time preparing but the result is somewhat different. This team understands the importance of maps and uses them for strategic play. They have a map of Warsong Gulch and have developed a “strategy” which consists of :
+   Focus : Capture the flag and win the game!
+
+   Doctrine :
+     * Perform your role the best you can (Develop mastery).
+     * Act as a single unit (a cell) i.e. fight and move together.
+
+   Context specific play :
+     * To begin with team will act as one cell in an initial all out attack. The group will quickly move through central tunnel towards the enemy base, taking out opposing players that interfere. Always take out opposing healers first, then wizards and then fighters.
+     * Once their flag is captured by our fighter, the group will work to take out opposing players and setup camp in the opponents graveyard — see map (figure 153) — killing off their players as they are resurrected and before they create any form of group. Taunting Alliance players is encouraged.
+     * Once their graveyard is contained, the cell will split into two cells. A small offensive group consisting of a couple of wizards will take out opposing stragglers and the larger cell (including our flag carrying fighter) will continue to camp out in the opposing team’s graveyard killing all players that resurrect. Once opposing players are contained in the graveyard the cell will reform and our fighter will keep running the flag. If the plan fails then the group will reform around our flag carrier.
+
+See    Figure 153: The map of the play
+ for more details.
+   Annotated in game Map of Warsong Gluch, World of Warcraft
+
+   Now, the Horde team has focus, principles and some form of context specific strategy based upon an understanding of the environment. It might not work but then the Horde players can use their maps to refine their gameplay with time. I can almost guarantee that when the battle kicks off, the first questions from the Alliance players will be “Should we attack or defend?” and “Where do we need to go?”
+
+   Arguments within the Alliance team will quickly happen and before they know it the Horde will be upon them. The next cries you’ll hear from the Alliance members will be “Help!” and “Why is no-one helping me, I need help here!” and “Where are you?” followed by endless bickering that this or that player isn’t good enough to be part of the team combined with lots of shouts for “What is going on?” or “Where is everyone?” or “Should I grab their flag?”. In all likelihood, the Alliance team will be quickly broken into a panicked rabble. I know, I’ve been on that team and watched the mayhem.
+
+   The point I want to emphasise is that principles are fine and yes strategy has to adapt to the game but don’t confuse the two. A set of principles does not make a strategy. Though it’s certainly better to have a set of principles than to have no principles and no strategy. This is equally applicable in business.
+
+   There is however another aspect to consider. Within World of Warcraft there are many teams of Horde and Alliance players. Imagine that the Alliance players not only have no map, they’re not even aware of the concept of a map. All they can do is try some principles and share them from one team to another as “Secrets of success”. Imagine the Horde players understand the concept of maps, use them and share between them. Pretty soon, every Horde team will be winning using a wide variety of strategic plays. The Alliance doesn’t stand a chance until every player in the Alliance has built some mental model of the world (an internal map). Of course, every new player that joins the Alliance reduces this shared understanding. The best the Alliance can do is to tell the new player to “apply the principles and follow Morgana the Wizard. Just do what she does” in the hope the new player will build up some mental map.
+
+   Principles aren’t going to save you against vastly higher levels of situational awareness. Now ask yourself, what do we do in business? Are we using maps for context specific gameplay, learning and communication or is our strategy more akin to copying “secrets of success” and “following others” i.e. we should be like Amazon, Netflix or AirBnB? Are we playing the game like the Alliance or the Horde? As tempting as it is, there is no secret formula and no magic secret to success.
+
+   Conway’s Game of Life consisted of automaton that did not learn from the environment. We are not that. Awareness of the environment will always create an advantage over others and yes, I’m afraid the very nature of competition (even cooperative competition) is about creating an advantage. If anything, understanding the landscape better than competitors is the one area of continual sustained advantage because the landscape of business is always shifting.
+

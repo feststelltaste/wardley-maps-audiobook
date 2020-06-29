@@ -1,0 +1,11 @@
+Chapter 10 - Section 1.: An unexpected discovery
+
+   In my pursuit of discovering a way to test the peace, war and wonder cycle then I had accidentally stumbled upon a narrative for describing a system wide organisational change. How widespread a change would be depended upon how well connected the components that were industrialising are. They could be specific to an ecosystem (e.g. legal will writing) and a small set of value chains or they could impact many industries (e.g. computing) and many value chains.
+
+   The narrative would start with the birth of a new concept A[1] which would undergo a process of evolution through competition from its first wonder and exploration to convergence around a set of products (point 1 in figure 115 below). These products, after x iterations crossing many chasms and following many diffusion curves would become more stabilised with well defined best practice for their use (point 2 in figure 115). Large vendors would have established, each with inertia to future change due to past success but the concept and the activity it represents will continue to evolve.
+
+   Eventually the component would be suitable for industrialisation and new entrants (not suffering from inertia) would make the transition across that inertia barrier introducing a more commodity form of A[x+1]. This would trigger a state of war, a shift to industrialised forms, a release of capability and capital (point 3) enabling an explosion of new activities due to componentisation effects and new practices (point 4) through co-evolution. The underlying activity would continue its evolution to ever more industrialised forms until some form of stability is achieved with A [1+n], a long an arduous journey of n iterations from the first wonder of its first introduction. The past ways, the past forms of the activity, the past practice would have died off (point 5) and they would have done so quickly.
+See    Figure 115: Understanding why
+ for more details.
+   In 2008, this was exactly what was started to happen around me in cloud computing. But the vast majority of people seemed to be assuring me that the change would take many decades, it would be very slow. Why would this be a slow progression? Why wouldn’t the change happen quickly? To understand this, we need to introduce a climatic pattern known as the punctuated equilibrium.
+

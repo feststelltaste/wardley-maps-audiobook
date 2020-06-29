@@ -1,0 +1,25 @@
+Chapter 16 - Section 1.1.: Getting messy with numbers
+
+   The first thing to note is that numbers are not reality. Just because it’s written in a spreadsheet doesn’t mean it is going to happen any more than a Gantt chart tells you what the future really holds. In this case, the CFO has had the good sense to examine a range of outcomes for two variants (the build “in-house” and the use a “public” platform) and then complain about the lack of probability provided. I like this CFO.
+
+   Let us assume that after some badgering we have managed to tease out some probability figures for the outcomes from marketing and sales — outcome 1 (10%), outcome 2 (10%), outcome 3 (15%) and outcome 4 (65%). I happen to agree with the CFO that sales are marketing may well have bias here. Later in this chapter, I’ll explain mechanism for how you might more accurately determine those probabilities. Obviously our choice of building “in-house” or using a “public” platform doesn’t impact those probabilities. They are independent. In figure 204, I’ve added probability onto the financial models for each of the variants.
+See    Figure 204: Options analysis
+ for more details.
+   Let us go through the terms.
+     * Probability: the likelihood of this outcome occurring according to sales and marketing.
+     * Total investment: the total amount of capital we’re putting into this effort.
+     * Total return: the amount of capital being returned (after repayment of investment). This is the annual net cash flow including any disposals.
+     * Opportunity loss: the return I would have expected had I spent the capital on other projects. In the LFP scenario our standard return on investment (ROI) is 40%
+     * Net Benefit / Loss: How did this investment do compare to my standard expected return? i.e. total return — opportunity loss.
+     * Expected return: the net benefit / loss * the probability of this occurring.
+
+   By summing the expected returns for each outcome, we can determine the value of each variant. The best expected return comes from building “in-house”. But wait, didn’t we say this building in-house was the future legacy? Well, as I did point out, most financial models have a bias to the present and hence they discount the future. The problem is that by following this path we’re are building up the legacy practice (and related inertia) and not positioning ourselves to build a future market. We might maximise our short term position but we end up in a dreadful long term one.
+
+   Can we somehow financially account for inertia and future position? Yes. The essential question between the variants is the following — are we prepared to gamble $435k of expected return to explore and potentially secure a more lucrative but undefined future position? To analyse this is very complex. So, what do we do? Well, at this point we depart paths. I will build monstrous complexities for navigation and do things to spreadsheets that shouldn’t be done. You can SWOT it.
+
+   SWOT? But isn’t SWOT the curse of simplistic management? Yes, but it also has its uses particularly if we understand the landscape. The problem with SWOT isn’t that it is useless but instead we apply it to landscapes we don’t understand.
+
+   We have two variants — build in-house and public platform. The strength of build in-house is we’re familiar with this approach within our teams and it provides the greater expected return. Its weakness is we build up our legacy position which comes with the threat of increased inertia and future inability to change. On the other hand, using a public platform play has different characteristics. Its strength is we build up experience in the future space and though it has a less expected return it provides an opportunity to develop skills and explore new opportunity. The weakness is we’re unfamiliar with this and the threat is that it fails we lose face with the customer but also potentially political capital with the board. The path you decide really depends upon who you are. The “retiring” CEO will tend to plummet for in-house and the short term expected return whilst the “warrior” CEO is more likely to go for the public platform and a long term future.
+
+   At this point questions such as “But what if those probabilities are wrong?” and “What if the options I’m looking at aren’t right?” should be racing through your mind. So, let us tackle that bit.
+

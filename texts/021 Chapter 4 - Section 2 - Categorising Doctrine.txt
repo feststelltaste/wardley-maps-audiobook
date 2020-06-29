@@ -1,0 +1,13 @@
+Chapter 4 - Section 2.: Categorising Doctrine
+
+   Doctrine are universal and applicable to all landscapes though many require you to use a map in order to fully exploit them. It’s worth making a distinction here (courtesy of Trent Hone). Whilst doctrine consists of basic principles, the application of those principles will be different in different contexts. For example, “Focus on user needs” does not mean we all focus on the same user needs but instead the exact user needs will vary with landscape and purpose. The user needs of an automative company are not the same as a tea shop. Equally, the user needs of “the best tea shop in Kent” are not the same as the user needs of “the most convenient tea shop in Kent”. Hence, doctrine can be subdivided into the principles of doctrine (i.e. “focus on user needs”) and the implementation of doctrine (i.e. “the user needs for the most convenient tea shop in Kent”)
+
+   Furthermore, doctrine are a set of beliefs over which you have choice. They are something which you apply to an organisation unlike climatic patterns which will apply to you regardless of your choice. They also represent our belief as to what works everywhere. I’ve listed the basic forms of doctrine (the principles) that we will cover in this book in figure 44, marking those we’ve just skimmed over in orange. This is not an exhaustive list but enough for now. In later chapters we will loop back around this section, refining both the concepts and different aspects of doctrine as we go. For reference, the categories I use for doctrine depend upon whether it mainly impacts:     * methods of communication
+     * the mechanics of development or building things.
+     * the operation of an organisation
+     * how we structure ourselves
+     * the manner by which we learn
+     * how we lead
+
+See    Figure 44: Doctrine
+ for more details.

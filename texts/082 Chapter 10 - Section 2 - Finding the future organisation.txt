@@ -1,0 +1,71 @@
+Chapter 10 - Section 2.: Finding the future organisation
+
+   In 2008, I had the narrative of how organisations change and though I still had to demonstrate aspects of this (by anticipating a punctuated equilibrium before it happened) it did provide me with a path to test the concepts. I knew that if the concept was right then over the next decade we would see a rapid change to more industrialised computing, co-evolution of practice and a new form of organisation appearing. In the case of the rise of DevOps then this process had already started. Beyond just simply observing the growth of new practices and new activities along with the death of the past (see figure 119), I wanted a more formal method to evaluate this change. What I wanted to know is could we catch this next wave? Would the shift of numerous IT based activities to more utility services create a new organisational form? Timing would be critical and unlike my earlier work in genetics where populations of new bacteria are grown rapidly, I had to wait. So wait, I did.
+See    Figure 119: The past and the future
+ for more details.
+   By 2010, the signals were suggesting that this was happening and in early 2011, I had exactly the opportunity I needed. Being a geneticist, I was quite well versed in population characteristics and so as part of a Leading Edge Forum project (published in the same year) we decided to use such techniques to examine populations of companies, specifically a hundred companies in Silicon Valley. We were looking for whether a statistically different population of companies had emerged and their characteristics (phenotypes) were starting to diffuse. It was a hit or miss project, we’d either find a budding population or it was back to the drawing board.
+
+   We already knew two main categories of company existed in the wild — those that described themselves as traditional enterprise and those using the term “web 2.0”. The practices from the web 2.0 were already diffusing throughout the entire environment. Most companies used social media, they thought about network effects, used highly dynamic and interactive web based technology and associated technology practices. The two populations were hence blurring through adoption of practices (i.e. the traditional were becoming more web 2.0 like) but also partially because past companies had died. But was there now a next generation budding, a new Fordism?
+
+   I interviewed a dozen companies that I thought would be reasonable examples of traditional and web 2.0 and where I hoped a couple of highly tentative next generation companies might be hiding. I developed a survey from those companies, removed them from the sample population to be examined and then interviewed over 100 companies divided roughly equally among those that described themselves as web 2.0 and those who called themselves more traditional. The populations all contained a mix of medium and huge companies. I examined over 90 characteristics giving a reasonable volume of data. From the cycle of change and our earlier interviews, we had guessed that our next generation was likely to be found in the self describing “web 2.0” group and in terms of strategic play they would tend to be focused on disruption (the war phase) rather than profitability (the peace phase). From our earlier interviews I had developed a tentative method of separating out into candidate populations. So, I divided
+   the population sample out into these categories and looked at population characteristics — means and standard deviations. Were there any significant differences? Were the differences so significant that we could describe them as a different population i.e. in a sample of mice and elephants then there exist significant characteristics that can be used to separate out the two populations.
+
+   I ran our analysis and waited. It was an edgy moment. Had we found something or as per many attempts before had we found nothing? I tend to assume nothing and when there is something, I tend to doubt it. Within our data set we found statistically significant population differences across a wide number of the characteristics but also significant similarities. I re-examined, looked through my work, tested, sought the advice of others and tested again — but the differences and similarities remained. For example, I examined each company’s view on open source and whether it was primarily something that means relatively little to them, a mechanism for cost reduction, something they relied upon, something they were engaged in or whether open source was viewed as a tactical weapon to be used against competitors. The result is provided in figure 120 with the subdivision by population type.
+See    Figure 120: Views on open source
+ for more details.
+   Learning from Web 2.0, Leading Edge Forum, 2011
+
+   Whilst the traditional companies mainly viewed open source as a means of cost reduction and something they relied upon, this next generation viewed it as a competitive weapon and something they were heavily engaged in. The web 2.0 group had a broader view from cost to weapon. This difference in population was repeated throughout many characteristics spanning strategy, tactics, practice, activities and form. The odds of achieving the same results due to random selection of a single population were exceptionally low. We had found our candidate next generation.
+
+   To describe this next generation, it is best to examine them against the more traditional. Some of the characteristics show overlap as would be expected. For example, in examining the highest priority focus for provision of technology by a company whether it’s profitability, enhancement of existing products and services, innovation of new products and services, enabling other companies to innovate on top of their products and services or creating an engaged ecosystem of consumers then overlaps exists. In other areas, the differences were starker. For example, in an examination of computing infrastructure then traditional favoured enterprise class servers whereas the next generation favoured more commodity. A good example of this similarity and yet difference was the attitude towards open source. When asked whether a company open sourced a source of differential advantage on a scale of strongly disagree to strongly agree then both traditional and next generation gave almost identical
+   response (see figure 121).
+See    Figure 121: Finding similarity
+ for more details.
+   Learning from Web 2.0, Leading Edge Forum, 2011
+
+   However, when asked whether they would open source a technology to deliberately out manoeuvre a competitor then the answers were almost polar opposite (see figure 122).
+See    Figure 122: Finding difference
+ for more details.
+   Learning from Web 2.0, Leading Edge Forum, 2011
+
+   Using these populations, I then characterised the main differences between traditional and next generation. These are provided in figure 123 but we will go through each in turn. I’ve also added some broad categories for the areas of doctrine the changes impact.
+See    Figure 123: The phenotypic differences
+ for more details.
+   Source data from “Learning from Web 2.0”, Leading Edge Forum, 2011
+
+   Development
+
+   Traditional companies tend to focus towards singular management techniques for development (e.g. Agile or Six Sigma) and often operate on a change control or regular process of updates. The next generation tends towards mixed methods depending upon what is being done and combine this with a continuous process of release.
+
+   Operations
+
+   Traditional organisations tend to use architectural practices such as scale –up (bigger machines) for capacity planning, N+1 (more reliable machines) for resilience and single, time critical disaster recovery tests for testing of failure modes. These architectural practices tend to determine a choice for enterprise class machinery. The next generation has entirely different architectural practices from scale-out (or distributed systems) for capacity planning, design for failure for resilience and use of chaos engines (i.e. the deliberate and continuous introduction of failure to test failure modes) rather than single, time critical disaster recovery test. These mechanisms enable highly capable systems to be built using low cost commodity components.
+
+   Structure
+
+   Traditional organisations used a departmental structure often by type of activity (IT, Finance, Marketing) or region with often a silo mentality and a culture that was considered to be inflexible. The next generation used smaller cell based structures (with teams typically of less than twelve) often with each cell providing services to others cells within the organisation. Each cell operated fairly autonomously covering a specific activity or set of activities. Interfaces were well defined between cells and the culture was viewed as more fluid, adaptable and dynamic.
+
+   Learning
+
+   Traditional organisations tend to use analysts to learn about their environment and changes that are occurring. They tend to also use big data systems which are focused primarily on providing and managing large sets of data. The next generation use ecosystems to more effectively manage, identify and exploit change. They also tend to not only use “big data” but to be run by it with extensive use of modelling and algorithms. The focus is not on the data per se but the models.
+
+   Leading
+
+   In traditional organisations, the use of open systems (whether source, data, APIs or other) is viewed primarily as a means of cost reduction. A major focus of the company tends to be towards profitability. In some cases technology or data is provided in an open means with an assumption that this will allow others to provide “free” resources and hence reduce costs. In next generation, open is viewed as a competitive weapon, a way of manipulating or changing the landscape through numerous tactical plays from reducing barriers to entry, standardisation, eliminating the opportunity to differentiate, building an ecosystem and even protecting an existing value chain. Next generation are primarily focused on disruption of pre-existing activities (a war phase mentality) and exhibit higher levels of strategic play.
+
+   The LEF published the work in Dec 2011 and since then we have observed the diffusion of many of these changes as the traditional become more next generation. In the parlance of “Boiling Frogs” (an outstanding open sourced document on management provided by GCHQ) then we’re seeing “less of” the traditional and “more of” the next generation over time. However, I very much don’t want you to read the above list and get the impression that — “this is how we create an advantage!” — instead be realistic. The above characteristics are already diffusing and evolving, tens if not hundreds of thousands of people and their companies are well aware of them today. You’ll need to adapt simply to survive. Any real advantage has already been taken and any remaining advantage will be over those who are slower to adapt.
+
+   I do however what to expand the above figure 123 and include some specific examples of doctrine (see figure 124 below). For example, the shift from single to multiple methods is just an refinement of the principle “to use appropriate methods”. There was a time when we thought that a single method was appropriate but as we’ve become more used to the concepts of evolution and change then we’ve learned that multiple techniques are needed. This doesn’t stop various attempts to create a tyranny of the one whether agile or six sigma or some purchasing method but for many of us the way we implement that principle has changed. In other words, the principle of doctrine has remained consistent but our implementation has refined and become more nuanced. Equally our principle of “manage failure” has simply refined from one time disaster recovery tests to constant introduction of failure through chaos engines. Now, certainly the implementation has to be mindful of the landscape and purpose, for example
+   constant failure through chaos engines is not appropriate for the generation components of a nuclear power plant.
+See    Figure 124: The change from traditional to next generation
+ for more details.
+   Source data from “Learning from Web 2.0”, Leading Edge Forum, 2011
+
+   In other cases, the principle “Think small teams” is relatively young in management terms (i.e. less than forty years). The theory of management tends to move extremely slowly and its practices can take a considerable amount of time to evolve. The point that I want to emphasise is that when we talk about the evolution of organisation, this is normally reflected in terms of a change in doctrine and either evolution or addition of principles. However, not everything changes. There are many practices and concepts that are simply copied to the next generation. It should never be expected that there are no common characteristics or overlap but instead what you hope to find is significant difference in specific characteristics (i.e. Mice have two eyes, same as Elephants and hence there are some similarities along with huge differences). I’ve provided a small subset of the similarities in figure 125 but it should be remembered of the 90 odd characteristics I examined, only twelve showed
+   significant change.
+See    Figure 125: Not everything changes
+ for more details.
+   Source data from “Learning from Web 2.0”, Leading Edge Forum, 2011
+
+   In 2008, I understood the cycle of change (peace, war and wonder) which had evolved from the concept of evolution and I had a hypothesis for the process of how organisations evolve. By 2011, we had not only anticipated this change but observed a budding next generation. I say “budding” because we had no real idea of whether they would be successful or not. It turns out that they are but that’s a story for a later chapter. For now, there are a couple of refinements that I’d like to make to these models.
+

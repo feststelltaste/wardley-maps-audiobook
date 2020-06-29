@@ -1,0 +1,6 @@
+Chapter 8 - Section 6.1.: Landscape
+
+     * Be careful of simplicity. There’s a balancing act here caused by Ashby’s law. Be aware that you’re often trading your ability to learn for easier management. In some cases, you can simplify so far that it becomes harmful e.g. one size fits all and group wide KPIs. Often people talk about the KISS principle (Keep it simple, stupid) just remember that by keeping it too simple then you can make some pretty daft choices.
+     * The map contains flows of capital which are represented by the interfaces. There are usually multiple flows in a single map. Such capital can be physical, financial, information, knowledge, risk, time or social. It could be anything which we trade and is traded between the components.
+     * Maps are a means of storytelling. Despite my dour attitude to storytelling (especially the hand waving kind of verbiage often found in strategy), maps are a form of visual storytelling.
+

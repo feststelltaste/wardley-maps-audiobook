@@ -1,0 +1,44 @@
+Chapter 7 - Section 1.: The new purpose
+
+   Unbeknownst to me, I had just been given a new purpose by others. I had my own crusade, to explain topographical intelligence to the world of business and to provide an “uncommon sense to the common world of strategy”. It wasn’t quite as catchy as “Pre-shaved Yaks” but it became the title of my first failed attempt to write a book on mapping in 2007.
+
+   I needed to demonstrate or disprove the concept of evolution in technology and mapping itself. I had no clue on how to do this but that didn’t stop me becoming a bit obsessed. My beard grew longer and I’m pretty sure I was mumbling mapping in my sleep. The reason why my purpose became all-consuming was it had two other things that mattered. First, it had a defined scope that was tangible and could be understood i.e. I was looking at the validity of this mapping technique. Second, it also had a moral imperative, I was rebelling against the hordes of management consultants that enslaved us with 2x2s in this marriage of convenience! It felt good. I had: 
+   Purpose: Explain topographical intelligence to the world of business.
+
+   Scope: Demonstrate or disprove the concept of evolution and mapping.
+
+   Imperative: Rebel against the hordes of management consultants that enslave us by enabling ordinary people to learn.
+
+   Being mindful of this purpose, I could now start thinking about the potential users of mapping and try to define what their needs might be. The users would need some way of exploiting mapping, some way of learning how to map given the complexity of the topic and also some sort of confirmation or validation that mapping was based upon something sensible. There was a chain of needs from purpose to user need (the very anchor of mapping) which I’ve drawn in figure 67.
+See    Figure 67: Purpose
+ for more details.
+   Given I had user needs then the very least I could do was map out that environment. Taking the user need of “Confidence that mapping can benefit us”from above then I’ve created a map of what is involved in figure 68. I’ll use this to describe some particular points on mapping itself. One thing you will notice is the x-axis that I’m using here is slightly different. Whilst I normally just use the descriptions for activities (genesis to commodity), in this case because we’re talking about knowledge then I’ll add those descriptions for the different stages of evolution. For more on the terms used when describing evolution see [88]figure 10 ([89]chapter 2).
+See    Figure 68: A map of mapping
+ for more details.
+   From the map above;
+
+   Point 1 — From “confidence that mapping can benefit us” then we had two high level user needs which were a means to learn mapping and some form of validation.
+
+   Point 2 — learning mapping requires not only the ability to create a map of the landscape but to understand common economic patters, doctrine and even context specific gameplay. Whilst common economic patterns are often discussed in a multitude of economic sources, the issue of context specific gameplay is fairly unique and rarely covered.
+
+   Point 3 — the map itself is based upon user needs (anchor) which is reasonably well discussed, a value chain (position) which itself is a common topic in business books but also evolution (movement). This last topic was rarely discussed back in 2007 other than in vague and hand waving notions. There were certainly concepts and competing hypothesis on how things evolved but no clear definitive path.
+
+   One of the first things that struck me was that there existed a chain of needs above my users. When I am a supplier of a component to others (e.g. providing nuts and bolts to a car manufacturer) then my map extends into their map. However, my map also extends into my own purpose and my own needs. In other words, any map is part of a wider chain of needs.
+
+   In figure 69, I’ve drawn an extended map from my purpose and my needs through to my user and their needs. I’ve reverted back to the more typical x-axis because you should be familiar that multiple types (activities, practices, data and knowledge) can be used on a map and it makes it less busy to just to show evolution terms for activities rather than all.
+See    Figure 69: The chain
+ for more details.
+   From the map above;
+
+   Point 1 — we have my needs i.e. my purpose, my scope and my moral imperative. This is my why of purpose expressed as a chain of needs e.g. be the world’s best tea shop or teach everyone to map. Naturally, I’d hope that my purpose would lead to others doing something and hence there would be users. In 2007, my scope was relatively novel as few seemed to be talking about mapping. However, my imperative wasn’t quite so unique. There were many rallying against the imposed consultancy industry.
+
+   Point 2 — whilst I hadn’t expressed this before, I had an unwritten need to survive, to make revenue and a profit. This is a very common and well understood need. In my case, I hoped that I could achieve this by meeting my users’ needs of either teaching them how to map or helping them create advantage over others.
+
+   Point 3 — my users had needs themselves. If my needs (i.e. purpose) didn’t fit in some way with the needs of my users, then this mismatch was likely to cause problems. For example, if my highest purpose was to make profit rather than explain topographical intelligence, then I would be focusing on extracting money from my users (this is not one of their core needs) rather than providing a means of learning mapping and creating advantage (which is a core user need). You should always strive to generate revenue and profit as a direct consequence of meeting users’ needs and providing value to them.
+
+   There are few other subtler things worth noting about the map above. First, my purpose is part of a chain of needs and as such it is influenced by the underlying components as they evolve. Over time, if mapping and the related activities become more industrialised then a scope of “demonstrate the concepts of evolution and mapping” ceases to be relevant. Even my moral imperative might disappear if the world becomes one where everyone maps, learns about their environment and has rebelled against management consultants with their 2x2s. If you think back to the strategy cycle, this is simply a reflection of the issue that as you act, as your landscape changes then your purpose, scope, moral imperative and even how you survive have to adapt. Nothing is permanent.
+
+   The second thing to note is that everything is evolving. At some point in the future, I will need to adapt my scope not only because the underlying components have evolved but also that my scope has become industrialised. There would be a point that you will be able to read endless free guides on how to map and even wikipedia articles. If at that point might scope isn’t something else designed to meet users’ needs and provide value to them then I’ll be attempting to survive against free.
+
+   The final issue is the balancing act between different user needs. I thought I had learned that lesson in my past doomed attempt to build a platform future by ignoring one set of very powerful users (the board) but I repeated the same mistake in my strategy consultancy interview. I was trying to engage in a discussion on the environment whereas they needed a financial and HR analysis of impacts caused by a disposal. Whether it was the right or wrong decision wasn’t something they cared about and I wasn’t thinking about their needs. Any play I created may have been right but without support of these users then it didn’t matter.
+
