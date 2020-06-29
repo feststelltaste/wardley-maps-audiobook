@@ -30,7 +30,7 @@ _Taken and adopted from <https://askubuntu.com/a/549368>._
 
 # More information
 
-- Here you can find some awesome resources about Wardley Maps: <http://list.wardleymaps.com>
+Here you can find some awesome resources about Wardley Maps: <http://list.wardleymaps.com>
 
 
 {% include open-embed.html %}
