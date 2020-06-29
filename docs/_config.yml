@@ -3,8 +3,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is a community project that releases Simon Wardley's book "Wardley Maps" as audiobook (generated via Amazon Polly's voice "Brian"). Courtesy of Simon Wardley, Creative Commons Attribution-ShareAlike 4.0.
 
 
-baseurl: "https://feststelltaste.github.io/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://feststelltaste.github.io/wardley-maps-audiobook"
 
 theme: minima
 markdown: kramdown
