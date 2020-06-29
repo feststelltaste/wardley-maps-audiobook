@@ -28,7 +28,7 @@ wget -c -A '*.mp3' -r -l 1 -nd https://feststelltaste.github.io/wardley-maps-aud
 ```
 _Taken and adopted from <https://askubuntu.com/a/549368>._
 
-## More information
+# More information
 
 - Here you can find some awesome resources about Wardley Maps: <http://list.wardleymaps.com>
 
