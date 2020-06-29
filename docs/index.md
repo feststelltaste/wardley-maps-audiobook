@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: post
+image: images/header.png
 ---
 Here you can download the audio version of Simon Wardley's book "Wardley Maps - Topographical intelligence in business".
 
