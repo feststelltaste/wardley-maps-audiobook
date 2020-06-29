@@ -7,6 +7,8 @@ image: images/header.png
 ---
 Here you can download the audio version of Simon Wardley's book "Wardley Maps - Topographical intelligence in business".
 
+![A Wardley Map that characterizes the ideas about an audiobook version of Simon Wardley's book.](images/header.png)
+
 _Please note that this website and its content are currently in the alpha version. Take a look at the [issues on GitHub](https://github.com/feststelltaste/wardley-maps-audiobook/issues) and feel to provide feedback, too!_
 
 
