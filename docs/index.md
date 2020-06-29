@@ -5,7 +5,7 @@
 layout: post
 image: images/header.png
 ---
-Here you can download the audio version of Simon Wardley's book "Wardley Maps - Topographical intelligence in business".
+Here you can download the (synthetic generated) audio version of Simon Wardley's book "Wardley Maps - Topographical intelligence in business".
 
 ![A Wardley Map that characterizes the ideas about an audiobook version of Simon Wardley's book.](images/header.png)
 
