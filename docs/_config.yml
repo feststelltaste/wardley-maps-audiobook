@@ -8,3 +8,11 @@ url: "https://feststelltaste.github.io"
 
 theme: minima
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  
+twitter:
+  username: feststelltaste
+  card: summary
+  image: /images/cards_image.png
