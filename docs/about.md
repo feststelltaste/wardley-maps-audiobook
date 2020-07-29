@@ -21,7 +21,7 @@ Simon published his book under an open license. So I decided to parse the Asciid
 The results were not so bad. With the MP3s in hand, I thought others might find it also useful. Maybe it is in some situations more convenient to listen to the book instead of reading it. So I created this website to provide the audiobook version of "Wardley Maps" to a greater audience.
 
 ### Licensing
-The content is licensed under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts.
+The content is licensed under the same Creative Commons Attribution-ShareAlike-4.0-International license as the original posts.
 
 ### Attribution
 The whole content of the audiobook is based on Simon Wardley's book "Wardley Maps": <https://medium.com/wardleymaps>
@@ -30,7 +30,7 @@ The audiobook builds upon Andrew Harmel-Law work. He converted Simon Wardley's b
 See his GitHub repository for more information: <https://github.com/andrewharmellaw/wardley-maps-book>
 
 ### Further Information
-You can find the used text snippets, source code for this website as well as the audiofiles in the corresponding GitHub repository: <https://github.com/feststelltaste/wardley-maps-audiobook>.
+You can find the used text snippets, source code for this website as well as the audio files in the corresponding GitHub repository: <https://github.com/feststelltaste/wardley-maps-audiobook>.
 
 The Python script voodoo is currently not online, but I'll upload it as soon as there is some time.
 
@@ -41,4 +41,4 @@ Best,
 Markus Harrer  
 [@feststelltaste](https://www.twitter.com/feststelltaste)
 
-_Please visit [my blog](https://www.feststelltaste.de/) for [contact information](https://www.feststelltaste.de/contact/) and a [privacy policy](https://www.feststelltaste.de/privacy/)._
+_Please visit [my blog](https://www.feststelltaste.de/) for [contact information](https://www.feststelltaste.de/contact/) and [privacy policy](https://www.feststelltaste.de/privacy/)._
