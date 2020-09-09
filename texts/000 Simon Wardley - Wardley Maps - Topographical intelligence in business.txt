@@ -4,7 +4,7 @@ Simon Wardley: Wardley Maps - Topographical intelligence in business
 
    The contents of this book are entirely the work of Simon Wardley (with a few minor spelling corrections made by Andrew Harmel-Law). They have been collated from Simon’s Medium.com posts on medium.com.
 
-   Unsurprisingly, this means that the contents of this book as licensed under the same terms as the blog posts themselves - the Creative Commons Attribution-ShareAlike-4.0-International licence.
+   Unsurprisingly, this means that the contents of this book as licensed under the same terms as the blog posts themselves - the Creative Commons Attribution-ShareAlike-4.0-International license.
 The audiobook version has been created by Markus Harrer based on Andrew Harmel-Law’s Asciidoc version. For this, he used some Python scripting voodoo and Amazon Polly text-to-speech cloud service.
 
    Have fun listening!
