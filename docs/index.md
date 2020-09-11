@@ -18,7 +18,11 @@ _If you want to find out more about this website (e. g. what headphones, housewo
 
 {% for mp3 in site.static_files %}
 {% if mp3.path contains 'mp3/' %}
-<a href="{{ site.baseurl }}{{ mp3.path | escape }}">{{ mp3.path | remove: "/mp3/" | remove: ".mp3"}}</a> &nbsp;<a href="{{ site.baseurl }}{{ mp3.path | escape }}" download><i class="fa fa-download" aria-hidden="true"></i></a>
+{% assign filename = mp3.path | remove: "/mp3/" | remove: ".mp3" %}
+{% assign id = filename | split: "- " | last | replace: " ", "-" | downcase %}
+<div style="padding-bottom: 10px">
+<a href="#{{id | escape}}" name="{{id | escape}}"><i class="fa fa-link"></i></a>&nbsp;&nbsp;<a href="{{ site.baseurl }}{{ mp3.path | escape }}">{{filename}}</a>
+</div>
 {% endif %}
 {% endfor %}
 
