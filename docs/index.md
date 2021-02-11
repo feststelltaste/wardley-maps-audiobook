@@ -12,7 +12,7 @@ _If you want to find out more about this website (e. g. what headphones, housewo
 
 # MP3 (full version)
 
-<a href="https://www.feststelltaste.de/wp-content/uploads/share/Simon%20Wardley%20-%20Wardley%20Maps%20-%20Topographical%20intelligence%20in%20business%20%28complete%20audiobook%29.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (complete audiobook, 305 MB)</a>
+<a href="https://github.com/feststelltaste/temp-release-test/releases/download/v1.0/Simon_Wardley_-_Wardley_Maps_-_Topographical_intelligence_in_business_v1.0.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (complete audiobook, 305 MB)</a>
 
 # MP3s (1 file per section)
 
@@ -26,12 +26,6 @@ _If you want to find out more about this website (e. g. what headphones, housewo
 {% endif %}
 {% endfor %}
 
-To download all MP3s from this website, feel free to use this command on your Linux console:
-
-```
-wget -c -A '*.mp3' -r -l 1 -nd https://feststelltaste.github.io/wardley-maps-audiobook/
-```
-_Taken and adopted from <https://askubuntu.com/a/549368>._
 
 # More information
 
