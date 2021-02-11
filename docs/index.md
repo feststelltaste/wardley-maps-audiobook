@@ -18,7 +18,7 @@ This is one "big" MP3 file that contains the complete content of the book.
 
 # MP3 files (1 file per section)
 
-Here you can find one MP3 file for each section of the book for direct listening. You can also download these files in one package as [.tar.gz file](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.tar.gz (285 MB)) or [.zip file (285 MB)](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.zip).
+Here you can find one MP3 file for each section of the book for direct listening. You can also download these files in one package as [.tar.gz file (285 MB)](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.tar.gz) or [.zip file (285 MB)](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.zip).
 
 
 {% for mp3 in site.static_files %}
