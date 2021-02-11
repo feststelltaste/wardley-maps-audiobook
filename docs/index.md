@@ -12,9 +12,14 @@ _If you want to find out more about this website (e. g. what headphones, housewo
 
 # MP3 (full version)
 
+This is one "big" MP3 file that contains the complete content of the book. 
+
 <a href="https://github.com/feststelltaste/temp-release-test/releases/download/v1.0/Simon_Wardley_-_Wardley_Maps_-_Topographical_intelligence_in_business_v1.0.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (complete audiobook, 305 MB)</a>
 
 # MP3s (1 file per section)
+
+Here you can find one MP3 file for each section of the book. You can also download these files in one package as [.tar.gz file](https://github.com/feststelltaste/temp-release-test/releases/download/v1.0/wardley-maps-audiobook-v1.0.tar.gz) or [.zip file](https://github.com/feststelltaste/temp-release-test/releases/download/v1.0/wardley-maps-audiobook-v1.0.zip).
+
 
 {% for mp3 in site.static_files %}
 {% if mp3.path contains 'mp3/' %}
@@ -29,7 +34,9 @@ _If you want to find out more about this website (e. g. what headphones, housewo
 
 # More information
 
-Here you can find some awesome resources about Wardley Maps: <http://list.wardleymaps.com>
+Here you can find some further awesome resources about Wardley Maps:
+- <http://list.wardleymaps.com> - Useful Wardley mapping resources.
+- <https://learnwardleymapping.com/> - Ben Mosior website for beginners.
 
 
 {% include open-embed.html %}
