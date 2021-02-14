@@ -32,9 +32,9 @@ Or you can directly listen to a section by clicking on a type of voice you prefe
 <li>
 <div style="padding-bottom: 10px">
 {{filename}}<br/>
-{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
-<a href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a> | 
-<a href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a>
+<small >{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
+<a style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>&nbsp;
+<a style="color:grey" href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a></small>
 </div>
 </li>
 {% endif %}
