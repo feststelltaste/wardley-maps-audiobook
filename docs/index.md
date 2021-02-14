@@ -39,7 +39,7 @@ Or you can directly listen to a section by clicking on it:
 
 Here you can find some further awesome resources about Wardley Maps:
 - <http://list.wardleymaps.com> - Useful Wardley mapping resources.
-- <https://learnwardleymapping.com/> - Ben Mosior website for beginners.
+- <https://learnwardleymapping.com/> - An excellent introduction to Wardley Maps.
 
 ## Download Statistics
 Here are some statistics from the underlying GitHub repository:
