@@ -12,9 +12,11 @@ _If you want to find out more about this website (e. g. what headphones, housewo
 
 # Complete MP3 file
 
-This is one "big" MP3 file that contains the complete content of the book. 
+Here you can find one "big" MP3 file that contains the complete content of the book. 
 
 <b><a href="https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/Simon_Wardley_-_Wardley_Maps_-_Topographical_intelligence_in_business_v1.0.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (male voice, 306 MB)</a></b>
+
+<small><i>Note: female version is following soon</i></small>
 
 # Single MP3 files (1 file per section)
 
