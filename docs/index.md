@@ -48,7 +48,7 @@ Here you can find some further awesome resources about Wardley Maps:
 - <https://learnwardleymapping.com/> - An excellent introduction to Wardley Maps.
 
 # Statistics
-Here are some statistics from the underlying GitHub repository:
+Here are some statistics from the underlying [GitHub repository](https://github.com/feststelltaste/wardley-maps-audiobook/):
 
 [![Current Github Release](https://img.shields.io/github/v/release/feststelltaste/wardley-maps-audiobook)](https://github.com/feststelltaste/wardley-maps-audiobook/releases)
 [![Github Release Downloads](https://img.shields.io/github/downloads/feststelltaste/wardley-maps-audiobook/total?label=downloads%20%28since%20Feb%2011%2C%202021%29)](https://tooomm.github.io/github-release-stats/?username=feststelltaste&repository=wardley-maps-audiobook)
