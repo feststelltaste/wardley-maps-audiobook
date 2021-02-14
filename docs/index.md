@@ -31,10 +31,10 @@ Or you can directly listen to a section by clicking on a type of voice you prefe
 {% assign id = filename | split: "- " | last | replace: " ", "-" | downcase %}
 <li>
 <div style="padding-bottom: 10px">
-{{filename}}
+{{filename}}<br/>
 {% assign female_path = mp3.path | replace: "brian/", "amy/" %}
-(<a href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a> | 
-<a href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a>)
+<a href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a> | 
+<a href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a>
 </div>
 </li>
 {% endif %}
