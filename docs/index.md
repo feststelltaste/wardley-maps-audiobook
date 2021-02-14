@@ -23,23 +23,22 @@ Here you can find one MP3 file for each section of the book for direct listening
 * [**.zip file (male voice, 285 MB)**](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.zip)
 
 Or you can directly listen to a section by clicking on a type of voice you prefer:
-<ul>
+
 
 {% for mp3 in site.static_files %}
 {% if mp3.path contains 'mp3/brian' %}
 {% assign filename = mp3.path | remove: "/mp3/brian/" | remove: ".mp3" %}
 {% assign id = filename | split: "- " | last | replace: " ", "-" | downcase %}
-<li>
-<div style="padding-bottom: 10px">
+
+<div style="padding-bottom: 15px; line-height: 100%;">
 {{filename}}<br/>
-<small >{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
-<a style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>&nbsp;
+<small>{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
+<a style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>
+&nbsp;
 <a style="color:grey" href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a></small>
 </div>
-</li>
 {% endif %}
 {% endfor %}
-</ul>
 
 # More information
 
