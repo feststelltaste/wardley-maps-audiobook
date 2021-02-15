@@ -39,19 +39,48 @@ Or you can directly listen to a section by clicking on a type of voice you prefe
 
 
 {% for mp3 in site.static_files %}
-{% if mp3.path contains 'mp3/brian' %}
+{% if mp3.path contains 'mp3/brian' and mp3.path contains '.mp3' %}
 {% assign filename = mp3.path | remove: "/mp3/brian/" | remove: ".mp3" %}
 {% assign id = filename | split: "- " | last | replace: " ", "-" | downcase %}
-
 <div style="padding-bottom: 15px; line-height: 100%;">
 {{filename}}<br/>
-<small>{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
+{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
+<small>
 <a style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>
 &nbsp;
 <a style="color:grey" href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a></small>
+
+{% assign current_id = mp3.path | split: "/" | last | slice: 0, 3 %}
+{% for mp3_ben in site.static_files %}
+{% if mp3_ben.path contains 'mp3/ben_mosior' and mp3_ben.path contains '.mp3' %}
+{% if mp3_ben.path contains current_id  %}
+{% assign ben_id = mp3_ben.path | slice: 0, 3 %}
+&nbsp;
+<small>
+<a style="color:grey" href="{{ site.baseurl }}{{ mp3_ben.path | escape }}">Ben</a>
+</small>
+{% endif %}
+{% endif %}
+{% endfor %}
 </div>
 {% endif %}
 {% endfor %}
+
+# Human Narrators
+In addition to the generated version of the audiobook by Amazon Polly, we're happy to have some voices from the Wardley Mapping community!
+
+
+**Ben Mosior**  
+Principal, Hired Thought <a href="https://twitter.com/HiredThought"><i class="fa fa-twitter"></i></a>
+
+<table style="border:none;">
+ <tr>
+  <td style="border:none;" width="150px"><img src="mp3/ben_mosior/avatar.png" width="150" height="150"></td>
+  <td style="border:none;" >
+  Ben is your friendly methodology whisperer, developing innovative new methods into everyday tools and facilitating learning experiences for teams and communities. Through Hired Thought, Ben shares decision-making and sensemaking approaches oriented around collective knowledge creation. To democratize access to strategic thinking methods, he operates <a href="https://learnwardleymapping.com/">LearnWardleyMapping.com</a> and runs regular events to inform and uplift new practitioners. Ben's goal in work and life is to do his part to enable purposeful systems to flourish. He podcasts for joy and teaches for hope.
+  </td>
+ </tr>
+</table>
 
 # More information
 
@@ -66,6 +95,5 @@ Here are some statistics from the underlying [GitHub repository](https://github.
 [![Github Release Downloads](https://img.shields.io/github/downloads/feststelltaste/wardley-maps-audiobook/total?label=downloads%20%28since%20Feb%2011%2C%202021%29)](https://tooomm.github.io/github-release-stats/?username=feststelltaste&repository=wardley-maps-audiobook)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/feststelltaste/wardley-maps-audiobook)](https://github.com/feststelltaste/wardley-maps-audiobook/issues)
 [![Github Stars](https://img.shields.io/github/stars/feststelltaste/wardley-maps-audiobook?style=social)](https://github.com/feststelltaste/wardley-maps-audiobook/stargazers)
-
 
 {% include open-embed.html %}
