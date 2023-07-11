@@ -42,8 +42,10 @@ Here you can find one MP3 file for each section of the book for direct listening
 * [**.tar.gz file (285 MB)**](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.tar.gz)
 * [**.zip file (285 MB)**](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.zip)
 
+I recommend to import those files into an audiobook app like [Voice (for Android)](https://play.google.com/store/apps/details?id=de.ph1b.audiobook&hl=de&gl=US). That's the way I'm listening to this audiobook.
 
-Or you can directly listen to a section by clicking on a type of voice you prefer:
+
+Alternatively, you can directly listen to a section by clicking on a type of voice you prefer:
 
 {% for txt in site.static_files %}
 {% if txt.path contains 'texts' and txt.path contains '.txt' %}
