@@ -44,9 +44,9 @@ Or you can directly listen to a section by clicking on a type of voice you prefe
 <div class="title" style="padding-bottom: 15px; line-height: 100%;">{{title}}<br/>
 {% assign female_path = mp3.path | replace: "brian/", "amy/" %}
 <small>
-<a class="female" style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>
+<a class="female" style="color:grey" href="https://wardley-maps-audiobook.s3.eu-central-1.amazonaws.com{{ female_path | escape }}">female voice</a>
 &nbsp;
-<a class="male" style="color:grey"  href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a></small>
+<a class="male" style="color:grey"  href="https://wardley-maps-audiobook.s3.eu-central-1.amazonaws.com{{ mp3.path | escape }}">male voice</a></small>
 {% assign current_id = mp3.path | split: "/" | last | slice: 0, 3 %}
 {% for mp3_ben in site.static_files %}
 {% if mp3_ben.path contains 'mp3/ben_mosior' and mp3_ben.path contains '.mp3' %}
