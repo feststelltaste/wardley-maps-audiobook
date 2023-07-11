@@ -23,6 +23,13 @@ Here you can find one "big" MP3 file that contains the complete content of the b
 * <b><a href="https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/Simon_Wardley_-_Wardley_Maps_-_Topographical_intelligence_in_business_v1.0.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (306 MB)</a></b>
 
 
+# RSS feeds (beta)
+
+There are two RSS feeds that you can manually import to your podcast app:
+
+* <a href="rss_female.xml">Female version</a>
+* <a href="rss.xml">Male version</a>
+
 # Single MP3 files (1 file per section)
 
 Here you can find one MP3 file for each section of the book for direct listening. You can download these files in one package:
@@ -34,6 +41,7 @@ Here you can find one MP3 file for each section of the book for direct listening
 **Male voice**  
 * [**.tar.gz file (285 MB)**](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.tar.gz)
 * [**.zip file (285 MB)**](https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.0/wardley-maps-audiobook-v1.0.zip)
+
 
 Or you can directly listen to a section by clicking on a type of voice you prefer:
 
