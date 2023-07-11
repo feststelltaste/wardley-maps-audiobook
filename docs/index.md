@@ -37,17 +37,17 @@ Here you can find one MP3 file for each section of the book for direct listening
 
 Or you can directly listen to a section by clicking on a type of voice you prefer:
 
-
-{% for mp3 in site.static_files %}
-{% if mp3.path contains 'mp3/brian' and mp3.path contains '.mp3' %}
-{% assign title = mp3.path | remove: "/mp3/brian/" | remove: ".mp3" %}
+{% for txt in site.static_files %}
+{% if txt.path contains 'texts' and txt.path contains '.txt' %}
+{% assign filename = txt.path | split: "/" | last | replace: ".txt", ".mp3" | escape %}
+{% assign title = txt.path | remove: "/texts/" | remove: ".txt" %}  
 <div class="title" style="padding-bottom: 15px; line-height: 100%;">{{title}}<br/>
-{% assign female_path = mp3.path | replace: "brian/", "amy/" %}
 <small>
-<a class="female" style="color:grey" href="https://wardley-maps-audiobook.s3.eu-central-1.amazonaws.com{{ female_path | escape }}">female voice</a>
+<a class="female" style="color:grey" href="https://wardley-maps-audiobook.s3.eu-central-1.amazonaws.com/mp3/amy/{{filename}}">female voice</a>
 &nbsp;
-<a class="male" style="color:grey"  href="https://wardley-maps-audiobook.s3.eu-central-1.amazonaws.com{{ mp3.path | escape }}">male voice</a></small>
-{% assign current_id = mp3.path | split: "/" | last | slice: 0, 3 %}
+<a class="male" style="color:grey"  href="https://wardley-maps-audiobook.s3.eu-central-1.amazonaws.com/mp3/brian/{{filename}}">male voice</a></small>
+
+{% assign current_id = filename | slice: 0, 3 %}
 {% for mp3_ben in site.static_files %}
 {% if mp3_ben.path contains 'mp3/ben_mosior' and mp3_ben.path contains '.mp3' %}
 {% if mp3_ben.path contains current_id  %}
@@ -59,6 +59,7 @@ Or you can directly listen to a section by clicking on a type of voice you prefe
 {% endif %}
 {% endif %}
 {% endfor %}
+
 </div>
 {% endif %}
 {% endfor %}
