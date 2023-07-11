@@ -11,9 +11,9 @@ markdown: kramdown
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
+#  - jekyll-feed
   
 twitter:
   username: feststelltaste
   card: summary
-  image: /images/cards_image.png
+  image: /images/cards_image.png  

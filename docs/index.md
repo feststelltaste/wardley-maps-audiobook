@@ -40,16 +40,13 @@ Or you can directly listen to a section by clicking on a type of voice you prefe
 
 {% for mp3 in site.static_files %}
 {% if mp3.path contains 'mp3/brian' and mp3.path contains '.mp3' %}
-{% assign filename = mp3.path | remove: "/mp3/brian/" | remove: ".mp3" %}
-{% assign id = filename | split: "- " | last | replace: " ", "-" | downcase %}
-<div style="padding-bottom: 15px; line-height: 100%;">
-{{filename}}<br/>
+{% assign title = mp3.path | remove: "/mp3/brian/" | remove: ".mp3" %}
+<div class="title" style="padding-bottom: 15px; line-height: 100%;">{{title}}<br/>
 {% assign female_path = mp3.path | replace: "brian/", "amy/" %}
 <small>
-<a style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>
+<a class="female" style="color:grey" href="{{ site.baseurl }}{{ female_path | escape }}">female voice</a>
 &nbsp;
-<a style="color:grey" href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a></small>
-
+<a class="male" style="color:grey"  href="{{ site.baseurl }}{{ mp3.path | escape }}">male voice</a></small>
 {% assign current_id = mp3.path | split: "/" | last | slice: 0, 3 %}
 {% for mp3_ben in site.static_files %}
 {% if mp3_ben.path contains 'mp3/ben_mosior' and mp3_ben.path contains '.mp3' %}
