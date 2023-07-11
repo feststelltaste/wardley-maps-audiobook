@@ -16,7 +16,7 @@ Here you can find one "big" MP3 file that contains the complete content of the b
 
 **Female voice**  
 
-* <b><a href="https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v0.1-female/Simon_Wardley_-_Wardley_Maps_-_Topographical_intelligence_in_business_v0.1-female.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (301 MB)</a></b>
+* <b><a href="https://github.com/feststelltaste/wardley-maps-audiobook/releases/download/v1.1/Simon_Wardley_-_Wardley_Maps_-_Topographical_intelligence_in_business_v1.0-female.mp3">Simon Wardley: Wardley Maps - Topographical intelligence in business (301 MB)</a></b>
 
 **Male voice** 
 
