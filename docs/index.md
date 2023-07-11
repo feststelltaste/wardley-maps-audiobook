@@ -69,7 +69,7 @@ In addition to the generated version of the audiobook by Amazon Polly, we're hap
 
 
 **Ben Mosior**  
-Principal, Hired Thought <a href="https://twitter.com/HiredThought"><i class="fa fa-twitter"></i></a>
+Principal, <a href="https://hiredthought.com/">Hired Thought</a>
 
 <table style="border:none;">
  <tr>
@@ -80,11 +80,27 @@ Principal, Hired Thought <a href="https://twitter.com/HiredThought"><i class="fa
  </tr>
 </table>
 
+# About the creator
+
+**Markus Harrer**  
+Senior Consultant, <a href="https://markusharrer.de/">INNOQ</a>
+
+<table style="border:none;">
+ <tr>
+  <td style="border:none;" width="150px"><img src="images/markus_harrer.png" width="150" height="150"></td>
+  <td style="border:none;" >
+  Markus Harrer is a software engineer who’s passionate about improving the way we do software development. He specializes in the analysis of software data such as source code, application performance data or version control repositories to show the underlying problems of the symptoms we face on the surface. He is an active contributor in communities on the topics of Software Analytics, software architecture, software modernization and Wardley Maps. He is also an accredited trainer for the iSAQB Foundation Level and the Advanced Level Module IMPROVE.
+  </td>
+ </tr>
+</table>
+
 # More information
 
 Here you can find some further awesome resources about Wardley Maps:
-- <http://list.wardleymaps.com> - Useful Wardley mapping resources.
+- <https://www.feststelltaste.de/top-5-learning-wardley-maps/> - Markus Harrer's recommendations for getting into the topic.
 - <https://learnwardleymapping.com/> - An excellent introduction to Wardley Maps.
+- <http://list.wardleymaps.com> - Useful Wardley mapping resources.
+
 
 # Statistics
 Here are some statistics from the underlying [GitHub repository](https://github.com/feststelltaste/wardley-maps-audiobook/):
